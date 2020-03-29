@@ -1,0 +1,2337 @@
+"C:\Program Files\Java\jdk1.8.0_111\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2018.1.3\lib\idea_rt.jar=54628:C:\Program Files\JetBrains\IntelliJ IDEA 2018.1.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_111\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar;C:\Users\Jerry\Documents\School\Master\Algorithms for Decision Support\ADS-Assignment\ADS-Assignment\Simulation\out\production\classes;C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk8\1.2.70\17bdfaa19afad44a641a778a1cacc53b0e95dddc\kotlin-stdlib-jdk8-1.2.70.jar;C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-math3\3.6.1\e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf\commons-math3-3.6.1.jar;C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-csv\1.6\22b3c2f901af973a8ec4f24e80c8c0c77a600b79\commons-csv-1.6.jar;C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk7\1.2.70\9318bb9dadaa56534ac8b0728a1ffa2bd0e48b28\kotlin-stdlib-jdk7-1.2.70.jar;C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.2.70\b5b9449f73ce7bf312e89a7560cb3c209a0fa13e\kotlin-stdlib-1.2.70.jar;C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-common\1.2.70\6ea722d7d0b9451293e739076ddb6a4108d57b6b\kotlin-stdlib-common-1.2.70.jar;C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar" MainKt
+Time it took Tram 1 to reach endpoint P+R De Uithof: 0
+Tram 1 should have arrived at 00:15:30 but it arrived at 00:-1:-30
+The scheduled time is 00:00:00
+We are -90 too late
+Waiting 77 extra time
+Dwell time: 13
+Time it took Tram 2 to reach endpoint P+R De Uithof: 0
+Tram 2 should have arrived at 00:27:30 but it arrived at 00:10:30
+The scheduled time is 00:12:00
+We are -90 too late
+Waiting 80 extra time
+Dwell time: 10
+Time it took Tram 1 to reach endpoint Centraal Station: 922
+Tram 1 should have arrived at 00:17:00 but it arrived at 00:15:22
+The scheduled time is 00:20:00
+We are -278 too late
+Waiting 98 extra time
+Dwell time: 180
+Time it took Tram 3 to reach endpoint P+R De Uithof: 0
+Tram 3 should have arrived at 00:39:30 but it arrived at 00:22:30
+The scheduled time is 00:24:00
+We are -90 too late
+Waiting 80 extra time
+Dwell time: 10
+Time it took Tram 2 to reach endpoint Centraal Station: 830
+Tram 2 should have arrived at 00:29:00 but it arrived at 00:25:50
+The scheduled time is 00:32:00
+We are -370 too late
+Waiting 190 extra time
+Dwell time: 180
+Time it took Tram 4 to reach endpoint P+R De Uithof: 0
+Tram 4 should have arrived at 00:51:30 but it arrived at 00:34:30
+The scheduled time is 00:36:00
+We are -90 too late
+Waiting 80 extra time
+Dwell time: 10
+Time it took Tram 1 to reach endpoint P+R De Uithof: 1109
+Tram 1 should have arrived at 00:37:00 but it arrived at 00:38:29
+The scheduled time is 00:48:00
+We are -571 too late
+Waiting 391 extra time
+Dwell time: 180
+Time it took Tram 3 to reach endpoint Centraal Station: 935
+Tram 3 should have arrived at 00:41:00 but it arrived at 00:39:35
+The scheduled time is 00:44:00
+We are -265 too late
+Waiting 85 extra time
+Dwell time: 180
+Time it took Tram 2 to reach endpoint P+R De Uithof: 1017
+Tram 2 should have arrived at 00:49:03 but it arrived at 00:49:00
+The scheduled time is 01:00:00
+We are -660 too late
+Waiting 480 extra time
+Dwell time: 180
+Time it took Tram 4 to reach endpoint Centraal Station: 887
+Tram 4 should have arrived at 00:53:00 but it arrived at 00:50:47
+The scheduled time is 00:56:00
+We are -313 too late
+Waiting 133 extra time
+Dwell time: 180
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1016
+Tram 3 should have arrived at 01:01:04 but it arrived at 01:01:00
+The scheduled time is 01:04:00
+We are -180 too late
+Dwell time: 180
+Time it took Tram 1 to reach endpoint Centraal Station: 899
+Tram 1 should have arrived at 01:05:00 but it arrived at 01:02:59
+The scheduled time is 01:08:00
+We are -301 too late
+Dwell time: 180
+Time it took Tram 5 to reach endpoint P+R De Uithof: 0
+Tram 5 should have arrived at 01:23:30 but it arrived at 01:06:30
+The scheduled time is 01:08:00
+We are -90 too late
+Dwell time: 13
+Time it took Tram 6 to reach endpoint P+R De Uithof: 0
+Tram 6 should have arrived at 01:27:30 but it arrived at 01:10:30
+The scheduled time is 01:12:00
+We are -90 too late
+Dwell time: 10
+Time it took Tram 4 to reach endpoint P+R De Uithof: 946
+Tram 4 should have arrived at 01:13:04 but it arrived at 01:11:50
+The scheduled time is 01:16:00
+We are -250 too late
+Dwell time: 180
+Time it took Tram 2 to reach endpoint Centraal Station: 964
+Tram 2 should have arrived at 01:17:00 but it arrived at 01:16:04
+The scheduled time is 01:20:00
+We are -236 too late
+Dwell time: 180
+Time it took Tram 7 to reach endpoint P+R De Uithof: 0
+Tram 7 should have arrived at 01:35:30 but it arrived at 01:18:30
+The scheduled time is 01:20:00
+We are -90 too late
+Dwell time: 19
+Time it took Tram 3 to reach endpoint Centraal Station: 967
+Tram 3 should have arrived at 01:21:00 but it arrived at 01:20:07
+The scheduled time is 01:24:00
+We are -233 too late
+Dwell time: 180
+Time it took Tram 5 to reach endpoint Centraal Station: 864
+Tram 5 should have arrived at 01:23:43 but it arrived at 01:21:07
+The scheduled time is 01:28:00
+We are -413 too late
+Dwell time: 180
+Time it took Tram 1 to reach endpoint P+R De Uithof: 936
+Tram 1 should have arrived at 01:23:06 but it arrived at 01:21:42
+The scheduled time is 01:24:00
+We are -138 too late
+Dwell time: 180
+Tram 1 we have a delay of: 42
+Time it took Tram 8 to reach endpoint P+R De Uithof: 0
+Tram 8 should have arrived at 01:39:30 but it arrived at 01:22:30
+The scheduled time is 01:28:00
+We are -330 too late
+Dwell time: 26
+Time it took Tram 6 to reach endpoint Centraal Station: 1022
+Tram 6 should have arrived at 01:27:40 but it arrived at 01:27:42
+The scheduled time is 01:32:00
+We are -258 too late
+Dwell time: 180
+Time it took Tram 9 to reach endpoint P+R De Uithof: 0
+Tram 9 should have arrived at 01:47:30 but it arrived at 01:30:30
+The scheduled time is 01:32:00
+We are -90 too late
+Dwell time: 10
+Time it took Tram 4 to reach endpoint Centraal Station: 1016
+Tram 4 should have arrived at 01:31:50 but it arrived at 01:31:46
+The scheduled time is 01:36:00
+We are -254 too late
+Dwell time: 180
+Time it took Tram 10 to reach endpoint P+R De Uithof: 0
+Tram 10 should have arrived at 01:51:30 but it arrived at 01:34:30
+The scheduled time is 01:36:00
+We are -90 too late
+Dwell time: 12
+Time it took Tram 2 to reach endpoint P+R De Uithof: 995
+Tram 2 should have arrived at 01:36:07 but it arrived at 01:35:42
+The scheduled time is 01:40:00
+We are -258 too late
+Dwell time: 180
+Time it took Tram 7 to reach endpoint Centraal Station: 1041
+Tram 7 should have arrived at 01:35:49 but it arrived at 01:36:10
+The scheduled time is 01:40:00
+We are -230 too late
+Dwell time: 180
+Time it took Tram 8 to reach endpoint Centraal Station: 922
+Tram 8 should have arrived at 01:39:56 but it arrived at 01:38:18
+The scheduled time is 01:44:00
+We are -342 too late
+Dwell time: 180
+Time it took Tram 3 to reach endpoint P+R De Uithof: 995
+Tram 3 should have arrived at 01:40:11 but it arrived at 01:39:46
+The scheduled time is 01:44:00
+We are -254 too late
+Dwell time: 180
+Time it took Tram 1 to reach endpoint Centraal Station: 943
+Tram 1 should have arrived at 01:41:42 but it arrived at 01:40:25
+The scheduled time is 01:48:00
+We are -455 too late
+Dwell time: 180
+Time it took Tram 5 to reach endpoint P+R De Uithof: 1003
+Tram 5 should have arrived at 01:41:20 but it arrived at 01:41:03
+The scheduled time is 01:48:00
+We are -417 too late
+Dwell time: 180
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1008
+Tram 6 should have arrived at 01:47:46 but it arrived at 01:47:34
+The scheduled time is 01:52:00
+We are -266 too late
+Dwell time: 180
+Time it took Tram 9 to reach endpoint Centraal Station: 1015
+Tram 9 should have arrived at 01:47:40 but it arrived at 01:47:35
+The scheduled time is 01:52:00
+We are -265 too late
+Dwell time: 180
+Time it took Tram 10 to reach endpoint Centraal Station: 920
+Tram 10 should have arrived at 01:51:42 but it arrived at 01:50:02
+The scheduled time is 01:56:00
+We are -358 too late
+Dwell time: 180
+Time it took Tram 4 to reach endpoint P+R De Uithof: 1058
+Tram 4 should have arrived at 01:52:10 but it arrived at 01:52:48
+The scheduled time is 01:56:00
+We are -192 too late
+Dwell time: 180
+Time it took Tram 7 to reach endpoint P+R De Uithof: 908
+Tram 7 should have arrived at 01:56:25 but it arrived at 01:54:33
+The scheduled time is 02:00:00
+We are -327 too late
+Dwell time: 180
+Time it took Tram 2 to reach endpoint Centraal Station: 993
+Tram 2 should have arrived at 01:55:42 but it arrived at 01:55:15
+The scheduled time is 02:00:00
+We are -285 too late
+Dwell time: 180
+Time it took Tram 3 to reach endpoint Centraal Station: 991
+Tram 3 should have arrived at 01:59:46 but it arrived at 01:59:17
+The scheduled time is 02:04:00
+We are -283 too late
+Dwell time: 180
+Time it took Tram 8 to reach endpoint P+R De Uithof: 1114
+Tram 8 should have arrived at 01:58:28 but it arrived at 02:00:02
+The scheduled time is 02:04:00
+We are -238 too late
+Dwell time: 180
+Time it took Tram 5 to reach endpoint Centraal Station: 974
+Tram 5 should have arrived at 02:01:03 but it arrived at 02:00:17
+The scheduled time is 02:08:00
+We are -463 too late
+Dwell time: 180
+Time it took Tram 1 to reach endpoint P+R De Uithof: 1073
+Tram 1 should have arrived at 02:00:30 but it arrived at 02:01:23
+The scheduled time is 02:08:00
+We are -397 too late
+Dwell time: 180
+Time it took Tram 6 to reach endpoint Centraal Station: 1005
+Tram 6 should have arrived at 02:07:34 but it arrived at 02:07:19
+The scheduled time is 02:12:00
+We are -281 too late
+Dwell time: 180
+Time it took Tram 9 to reach endpoint P+R De Uithof: 1057
+Tram 9 should have arrived at 02:08:07 but it arrived at 02:08:44
+The scheduled time is 02:12:00
+We are -196 too late
+Dwell time: 180
+Time it took Tram 10 to reach endpoint P+R De Uithof: 1013
+Tram 10 should have arrived at 02:10:21 but it arrived at 02:10:14
+The scheduled time is 02:16:00
+We are -346 too late
+Dwell time: 180
+Time it took Tram 4 to reach endpoint Centraal Station: 1092
+Tram 4 should have arrived at 02:12:48 but it arrived at 02:14:00
+The scheduled time is 02:16:00
+We are -120 too late
+Dwell time: 180
+Tram 4 we have a delay of: 60
+Time it took Tram 7 to reach endpoint Centraal Station: 1047
+Tram 7 should have arrived at 02:14:33 but it arrived at 02:15:00
+The scheduled time is 02:20:00
+We are -300 too late
+Dwell time: 180
+Time it took Tram 2 to reach endpoint P+R De Uithof: 1041
+Tram 2 should have arrived at 02:15:17 but it arrived at 02:15:38
+The scheduled time is 02:20:00
+We are -262 too late
+Dwell time: 180
+Time it took Tram 8 to reach endpoint Centraal Station: 997
+Tram 8 should have arrived at 02:20:02 but it arrived at 02:19:39
+The scheduled time is 02:24:00
+We are -261 too late
+Dwell time: 192
+Time it took Tram 1 to reach endpoint Centraal Station: 976
+Tram 1 should have arrived at 02:21:23 but it arrived at 02:20:39
+The scheduled time is 02:28:00
+We are -441 too late
+Dwell time: 180
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1107
+Tram 3 should have arrived at 02:20:45 but it arrived at 02:22:12
+The scheduled time is 02:24:00
+We are -108 too late
+Dwell time: 180
+Tram 3 we have a delay of: 72
+Time it took Tram 5 to reach endpoint P+R De Uithof: 1014
+Tram 5 should have arrived at 02:23:19 but it arrived at 02:23:13
+The scheduled time is 02:28:00
+We are -287 too late
+Dwell time: 180
+Time it took Tram 9 to reach endpoint Centraal Station: 974
+Tram 9 should have arrived at 02:28:44 but it arrived at 02:27:58
+The scheduled time is 02:32:00
+We are -242 too late
+Dwell time: 180
+Time it took Tram 10 to reach endpoint Centraal Station: 944
+Tram 10 should have arrived at 02:30:14 but it arrived at 02:28:58
+The scheduled time is 02:36:00
+We are -422 too late
+Dwell time: 180
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1186
+Tram 6 should have arrived at 02:27:32 but it arrived at 02:30:18
+The scheduled time is 02:32:00
+We are -102 too late
+Dwell time: 180
+Tram 6 we have a delay of: 78
+Time it took Tram 4 to reach endpoint P+R De Uithof: 1024
+Tram 4 should have arrived at 02:34:14 but it arrived at 02:34:18
+The scheduled time is 02:36:00
+We are -102 too late
+Dwell time: 180
+Tram 4 we have a delay of: 78
+Time it took Tram 2 to reach endpoint Centraal Station: 1024
+Tram 2 should have arrived at 02:35:38 but it arrived at 02:35:42
+The scheduled time is 02:40:00
+We are -258 too late
+Dwell time: 180
+Time it took Tram 7 to reach endpoint P+R De Uithof: 1080
+Tram 7 should have arrived at 02:35:14 but it arrived at 02:36:14
+The scheduled time is 02:40:00
+We are -226 too late
+Dwell time: 180
+Time it took Tram 8 to reach endpoint P+R De Uithof: 961
+Tram 8 should have arrived at 02:39:51 but it arrived at 02:38:52
+The scheduled time is 02:44:00
+We are -308 too late
+Dwell time: 180
+Time it took Tram 1 to reach endpoint P+R De Uithof: 1021
+Tram 1 should have arrived at 02:40:51 but it arrived at 02:40:52
+The scheduled time is 02:48:00
+We are -428 too late
+Dwell time: 180
+Time it took Tram 3 to reach endpoint Centraal Station: 997
+Tram 3 should have arrived at 02:42:12 but it arrived at 02:41:49
+The scheduled time is 02:44:00
+We are -131 too late
+Dwell time: 180
+Tram 3 we have a delay of: 49
+Time it took Tram 5 to reach endpoint Centraal Station: 996
+Tram 5 should have arrived at 02:43:13 but it arrived at 02:42:49
+The scheduled time is 02:48:00
+We are -311 too late
+Dwell time: 180
+Time it took Tram 6 to reach endpoint Centraal Station: 880
+Tram 6 should have arrived at 02:50:18 but it arrived at 02:47:58
+The scheduled time is 02:52:00
+We are -242 too late
+Dwell time: 180
+Time it took Tram 9 to reach endpoint P+R De Uithof: 1273
+Tram 9 should have arrived at 02:47:58 but it arrived at 02:52:11
+The scheduled time is 02:52:00
+We are 11 too late
+Dwell time: 180
+Tram 9 we have a delay of: 191
+Time it took Tram 4 to reach endpoint Centraal Station: 986
+Tram 4 should have arrived at 02:54:18 but it arrived at 02:53:44
+The scheduled time is 02:56:00
+We are -136 too late
+Dwell time: 180
+Tram 4 we have a delay of: 44
+Time it took Tram 10 to reach endpoint P+R De Uithof: 1316
+Tram 10 should have arrived at 02:48:58 but it arrived at 02:53:54
+The scheduled time is 02:56:00
+We are -126 too late
+Dwell time: 180
+Tram 10 we have a delay of: 54
+Time it took Tram 7 to reach endpoint Centraal Station: 894
+Tram 7 should have arrived at 02:56:52 but it arrived at 02:54:46
+The scheduled time is 03:00:00
+We are -314 too late
+Dwell time: 180
+Time it took Tram 2 to reach endpoint P+R De Uithof: 1049
+Tram 2 should have arrived at 02:55:42 but it arrived at 02:56:11
+The scheduled time is 03:00:00
+We are -229 too late
+Dwell time: 180
+Time it took Tram 8 to reach endpoint Centraal Station: 1014
+Tram 8 should have arrived at 02:58:52 but it arrived at 02:58:46
+The scheduled time is 03:04:00
+We are -314 too late
+Dwell time: 180
+Time it took Tram 1 to reach endpoint Centraal Station: 1036
+Tram 1 should have arrived at 03:00:52 but it arrived at 03:01:08
+The scheduled time is 03:08:00
+We are -412 too late
+Dwell time: 180
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1086
+Tram 3 should have arrived at 03:01:49 but it arrived at 03:02:55
+The scheduled time is 03:04:00
+We are -65 too late
+Dwell time: 180
+Tram 3 we have a delay of: 115
+Time it took Tram 5 to reach endpoint P+R De Uithof: 1135
+Tram 5 should have arrived at 03:02:49 but it arrived at 03:04:44
+The scheduled time is 03:08:00
+We are -196 too late
+Dwell time: 180
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1066
+Tram 6 should have arrived at 03:07:58 but it arrived at 03:08:44
+The scheduled time is 03:12:00
+We are -196 too late
+Dwell time: 180
+Time it took Tram 9 to reach endpoint Centraal Station: 914
+Tram 9 should have arrived at 03:12:11 but it arrived at 03:10:25
+The scheduled time is 03:12:00
+We are -95 too late
+Dwell time: 183
+Tram 9 we have a delay of: 88
+Time it took Tram 10 to reach endpoint Centraal Station: 1037
+Tram 10 should have arrived at 03:14:11 but it arrived at 03:14:28
+The scheduled time is 03:16:00
+We are -92 too late
+Dwell time: 180
+Tram 10 we have a delay of: 88
+Time it took Tram 4 to reach endpoint P+R De Uithof: 1114
+Tram 4 should have arrived at 03:13:44 but it arrived at 03:15:18
+The scheduled time is 03:16:00
+We are -42 too late
+Dwell time: 180
+Tram 4 we have a delay of: 138
+Time it took Tram 7 to reach endpoint P+R De Uithof: 1112
+Tram 7 should have arrived at 03:14:46 but it arrived at 03:16:18
+The scheduled time is 03:20:00
+We are -222 too late
+Dwell time: 180
+Time it took Tram 2 to reach endpoint Centraal Station: 1082
+Tram 2 should have arrived at 03:16:11 but it arrived at 03:17:13
+The scheduled time is 03:20:00
+We are -167 too late
+Dwell time: 198
+Tram 2 we have a delay of: 31
+Time it took Tram 8 to reach endpoint P+R De Uithof: 1030
+Tram 8 should have arrived at 03:19:08 but it arrived at 03:19:18
+The scheduled time is 03:24:00
+We are -282 too late
+Dwell time: 180
+Time it took Tram 1 to reach endpoint P+R De Uithof: 1030
+Tram 1 should have arrived at 03:21:08 but it arrived at 03:21:18
+The scheduled time is 03:28:00
+We are -402 too late
+Dwell time: 180
+Time it took Tram 3 to reach endpoint Centraal Station: 1022
+Tram 3 should have arrived at 03:22:55 but it arrived at 03:22:57
+The scheduled time is 03:24:00
+We are -63 too late
+Dwell time: 180
+Tram 3 we have a delay of: 117
+Time it took Tram 5 to reach endpoint Centraal Station: 973
+Tram 5 should have arrived at 03:24:44 but it arrived at 03:23:57
+The scheduled time is 03:28:00
+We are -243 too late
+Dwell time: 180
+Time it took Tram 6 to reach endpoint Centraal Station: 973
+Tram 6 should have arrived at 03:28:44 but it arrived at 03:27:57
+The scheduled time is 03:32:00
+We are -243 too late
+Dwell time: 180
+Time it took Tram 9 to reach endpoint P+R De Uithof: 992
+Tram 9 should have arrived at 03:30:28 but it arrived at 03:30:00
+The scheduled time is 03:32:00
+We are -120 too late
+Dwell time: 180
+Tram 9 we have a delay of: 60
+Time it took Tram 4 to reach endpoint Centraal Station: 892
+Tram 4 should have arrived at 03:35:18 but it arrived at 03:33:10
+The scheduled time is 03:36:00
+We are -170 too late
+Dwell time: 180
+Tram 4 we have a delay of: 10
+Time it took Tram 10 to reach endpoint P+R De Uithof: 1125
+Tram 10 should have arrived at 03:35:13 but it arrived at 03:36:58
+The scheduled time is 03:36:00
+We are 58 too late
+Dwell time: 180
+Tram 10 we have a delay of: 238
+Time it took Tram 7 to reach endpoint Centraal Station: 1012
+Tram 7 should have arrived at 03:37:18 but it arrived at 03:37:10
+The scheduled time is 03:40:00
+We are -170 too late
+Dwell time: 180
+Tram 7 we have a delay of: 10
+Time it took Tram 2 to reach endpoint P+R De Uithof: 1047
+Tram 2 should have arrived at 03:37:31 but it arrived at 03:37:58
+The scheduled time is 03:40:00
+We are -122 too late
+Dwell time: 180
+Tram 2 we have a delay of: 58
+Time it took Tram 8 to reach endpoint Centraal Station: 952
+Tram 8 should have arrived at 03:39:18 but it arrived at 03:38:10
+The scheduled time is 03:44:00
+We are -350 too late
+Dwell time: 180
+Time it took Tram 1 to reach endpoint Centraal Station: 1012
+Tram 1 should have arrived at 03:41:18 but it arrived at 03:41:10
+The scheduled time is 03:48:00
+We are -410 too late
+Dwell time: 180
+Time it took Tram 3 to reach endpoint P+R De Uithof: 975
+Tram 3 should have arrived at 03:42:57 but it arrived at 03:42:12
+The scheduled time is 03:44:00
+We are -108 too late
+Dwell time: 180
+Tram 3 we have a delay of: 72
+Time it took Tram 5 to reach endpoint P+R De Uithof: 1155
+Tram 5 should have arrived at 03:43:57 but it arrived at 03:46:12
+The scheduled time is 03:48:00
+We are -108 too late
+Dwell time: 180
+Tram 5 we have a delay of: 72
+Time it took Tram 9 to reach endpoint Centraal Station: 887
+Tram 9 should have arrived at 03:50:00 but it arrived at 03:47:47
+The scheduled time is 03:52:00
+We are -253 too late
+Dwell time: 180
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1242
+Tram 6 should have arrived at 03:47:57 but it arrived at 03:51:39
+The scheduled time is 03:52:00
+We are -21 too late
+Dwell time: 180
+Tram 6 we have a delay of: 159
+Time it took Tram 4 to reach endpoint P+R De Uithof: 1169
+Tram 4 should have arrived at 03:53:10 but it arrived at 03:55:39
+The scheduled time is 03:56:00
+We are -21 too late
+Dwell time: 180
+Tram 4 we have a delay of: 159
+Time it took Tram 10 to reach endpoint Centraal Station: 997
+Tram 10 should have arrived at 03:56:58 but it arrived at 03:56:35
+The scheduled time is 03:56:00
+We are 35 too late
+Dwell time: 180
+Tram 10 we have a delay of: 215
+Time it took Tram 7 to reach endpoint P+R De Uithof: 1018
+Tram 7 should have arrived at 03:57:10 but it arrived at 03:57:08
+The scheduled time is 04:00:00
+We are -172 too late
+Dwell time: 180
+Tram 7 we have a delay of: 8
+Time it took Tram 2 to reach endpoint Centraal Station: 997
+Tram 2 should have arrived at 03:57:58 but it arrived at 03:57:35
+The scheduled time is 04:00:00
+We are -145 too late
+Dwell time: 180
+Tram 2 we have a delay of: 35
+Time it took Tram 8 to reach endpoint P+R De Uithof: 1049
+Tram 8 should have arrived at 03:59:10 but it arrived at 03:59:39
+The scheduled time is 04:04:00
+We are -261 too late
+Dwell time: 180
+Time it took Tram 1 to reach endpoint P+R De Uithof: 1066
+Tram 1 should have arrived at 04:01:10 but it arrived at 04:01:56
+The scheduled time is 04:08:00
+We are -364 too late
+Dwell time: 180
+Time it took Tram 3 to reach endpoint Centraal Station: 1013
+Tram 3 should have arrived at 04:02:12 but it arrived at 04:02:05
+The scheduled time is 04:04:00
+We are -115 too late
+Dwell time: 180
+Tram 3 we have a delay of: 65
+Time it took Tram 5 to reach endpoint Centraal Station: 1030
+Tram 5 should have arrived at 04:06:12 but it arrived at 04:06:22
+The scheduled time is 04:08:00
+We are -98 too late
+Dwell time: 180
+Tram 5 we have a delay of: 82
+Time it took Tram 9 to reach endpoint P+R De Uithof: 1063
+Tram 9 should have arrived at 04:08:06 but it arrived at 04:08:49
+The scheduled time is 04:12:00
+We are -191 too late
+Dwell time: 180
+Time it took Tram 6 to reach endpoint Centraal Station: 972
+Tram 6 should have arrived at 04:11:39 but it arrived at 04:10:51
+The scheduled time is 04:12:00
+We are -69 too late
+Dwell time: 180
+Tram 6 we have a delay of: 111
+Time it took Tram 4 to reach endpoint Centraal Station: 980
+Tram 4 should have arrived at 04:15:39 but it arrived at 04:14:59
+The scheduled time is 04:16:00
+We are -61 too late
+Dwell time: 180
+Tram 4 we have a delay of: 119
+Time it took Tram 7 to reach endpoint Centraal Station: 920
+Tram 7 should have arrived at 04:17:39 but it arrived at 04:15:59
+The scheduled time is 04:20:00
+We are -241 too late
+Dwell time: 180
+Time it took Tram 10 to reach endpoint P+R De Uithof: 1088
+Tram 10 should have arrived at 04:16:49 but it arrived at 04:17:57
+The scheduled time is 04:16:00
+We are 117 too late
+Dwell time: 180
+Tram 10 we have a delay of: 297
+Time it took Tram 8 to reach endpoint Centraal Station: 969
+Tram 8 should have arrived at 04:19:56 but it arrived at 04:19:05
+The scheduled time is 04:24:00
+We are -295 too late
+Dwell time: 180
+Time it took Tram 1 to reach endpoint Centraal Station: 994
+Tram 1 should have arrived at 04:21:56 but it arrived at 04:21:30
+The scheduled time is 04:28:00
+We are -390 too late
+Dwell time: 180
+Time it took Tram 2 to reach endpoint P+R De Uithof: 1315
+Tram 2 should have arrived at 04:18:05 but it arrived at 04:23:00
+The scheduled time is 04:20:00
+We are 180 too late
+Dwell time: 180
+Tram 2 we have a delay of: 360
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1135
+Tram 3 should have arrived at 04:22:22 but it arrived at 04:24:17
+The scheduled time is 04:24:00
+We are 17 too late
+Dwell time: 180
+Tram 3 we have a delay of: 197
+Time it took Tram 5 to reach endpoint P+R De Uithof: 1040
+Tram 5 should have arrived at 04:26:47 but it arrived at 04:27:07
+The scheduled time is 04:28:00
+We are -53 too late
+Dwell time: 180
+Tram 5 we have a delay of: 127
+Time it took Tram 9 to reach endpoint Centraal Station: 966
+Tram 9 should have arrived at 04:28:49 but it arrived at 04:27:55
+The scheduled time is 04:32:00
+We are -245 too late
+Dwell time: 180
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1028
+Tram 6 should have arrived at 04:30:59 but it arrived at 04:31:07
+The scheduled time is 04:32:00
+We are -53 too late
+Dwell time: 180
+Tram 6 we have a delay of: 127
+Time it took Tram 4 to reach endpoint P+R De Uithof: 1055
+Tram 4 should have arrived at 04:35:05 but it arrived at 04:35:40
+The scheduled time is 04:36:00
+We are -20 too late
+Dwell time: 180
+Tram 4 we have a delay of: 160
+Time it took Tram 10 to reach endpoint Centraal Station: 960
+Tram 10 should have arrived at 04:37:57 but it arrived at 04:36:57
+The scheduled time is 04:36:00
+We are 57 too late
+Dwell time: 180
+Tram 10 we have a delay of: 237
+Time it took Tram 7 to reach endpoint P+R De Uithof: 999
+Tram 7 should have arrived at 04:37:30 but it arrived at 04:37:09
+The scheduled time is 04:40:00
+We are -171 too late
+Dwell time: 180
+Tram 7 we have a delay of: 9
+Time it took Tram 8 to reach endpoint P+R De Uithof: 1029
+Tram 8 should have arrived at 04:39:31 but it arrived at 04:39:40
+The scheduled time is 04:44:00
+We are -260 too late
+Dwell time: 180
+Time it took Tram 1 to reach endpoint P+R De Uithof: 1075
+Tram 1 should have arrived at 04:42:45 but it arrived at 04:43:40
+The scheduled time is 04:48:00
+We are -260 too late
+Dwell time: 180
+Time it took Tram 2 to reach endpoint Centraal Station: 1143
+Tram 2 should have arrived at 04:43:00 but it arrived at 04:45:03
+The scheduled time is 04:40:00
+We are 303 too late
+Dwell time: 180
+Tram 2 we have a delay of: 483
+Time it took Tram 3 to reach endpoint Centraal Station: 1076
+Tram 3 should have arrived at 04:45:07 but it arrived at 04:46:03
+The scheduled time is 04:44:00
+We are 123 too late
+Dwell time: 180
+Tram 3 we have a delay of: 303
+Time it took Tram 5 to reach endpoint Centraal Station: 1145
+Tram 5 should have arrived at 04:47:07 but it arrived at 04:49:12
+The scheduled time is 04:48:00
+We are 72 too late
+Dwell time: 180
+Tram 5 we have a delay of: 252
+Time it took Tram 9 to reach endpoint P+R De Uithof: 1097
+Tram 9 should have arrived at 04:49:06 but it arrived at 04:50:23
+The scheduled time is 04:52:00
+We are -97 too late
+Dwell time: 180
+Tram 9 we have a delay of: 83
+Time it took Tram 6 to reach endpoint Centraal Station: 1153
+Tram 6 should have arrived at 04:51:07 but it arrived at 04:53:20
+The scheduled time is 04:52:00
+We are 80 too late
+Dwell time: 180
+Tram 6 we have a delay of: 260
+Time it took Tram 10 to reach endpoint P+R De Uithof: 928
+Tram 10 should have arrived at 04:57:29 but it arrived at 04:55:57
+The scheduled time is 04:56:00
+We are -3 too late
+Dwell time: 180
+Tram 10 we have a delay of: 177
+Time it took Tram 4 to reach endpoint Centraal Station: 1132
+Tram 4 should have arrived at 04:55:40 but it arrived at 04:57:32
+The scheduled time is 04:56:00
+We are 92 too late
+Dwell time: 180
+Tram 4 we have a delay of: 272
+Time it took Tram 7 to reach endpoint Centraal Station: 1136
+Tram 7 should have arrived at 04:57:40 but it arrived at 04:59:36
+The scheduled time is 05:00:00
+We are -24 too late
+Dwell time: 180
+Tram 7 we have a delay of: 156
+Time it took Tram 8 to reach endpoint Centraal Station: 1272
+Tram 8 should have arrived at 04:59:40 but it arrived at 05:03:52
+The scheduled time is 05:04:00
+We are -8 too late
+Dwell time: 180
+Tram 8 we have a delay of: 172
+Time it took Tram 2 to reach endpoint P+R De Uithof: 1163
+Tram 2 should have arrived at 05:05:12 but it arrived at 05:07:35
+The scheduled time is 05:00:00
+We are 455 too late
+Dwell time: 180
+Tram 2 we have a delay of: 635
+Time it took Tram 1 to reach endpoint Centraal Station: 1282
+Tram 1 should have arrived at 05:03:40 but it arrived at 05:08:02
+The scheduled time is 05:08:00
+We are 2 too late
+Dwell time: 180
+Tram 1 we have a delay of: 182
+Time it took Tram 5 to reach endpoint P+R De Uithof: 1031
+Tram 5 should have arrived at 05:09:20 but it arrived at 05:09:31
+The scheduled time is 05:04:00
+We are 331 too late
+Dwell time: 180
+Tram 5 we have a delay of: 511
+Time it took Tram 9 to reach endpoint Centraal Station: 1004
+Tram 9 should have arrived at 05:10:23 but it arrived at 05:10:07
+The scheduled time is 05:12:00
+We are -113 too late
+Dwell time: 180
+Tram 9 we have a delay of: 67
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1019
+Tram 6 should have arrived at 05:13:32 but it arrived at 05:13:31
+The scheduled time is 05:08:00
+We are 331 too late
+Dwell time: 180
+Tram 6 we have a delay of: 511
+Time it took Tram 10 to reach endpoint Centraal Station: 950
+Tram 10 should have arrived at 05:15:57 but it arrived at 05:14:47
+The scheduled time is 05:16:00
+We are -73 too late
+Dwell time: 180
+Tram 10 we have a delay of: 107
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1030
+Tram 3 should have arrived at 05:15:36 but it arrived at 05:15:46
+The scheduled time is 05:12:00
+We are 226 too late
+Dwell time: 180
+Tram 3 we have a delay of: 406
+Time it took Tram 7 to reach endpoint P+R De Uithof: 1014
+Tram 7 should have arrived at 05:19:52 but it arrived at 05:19:46
+The scheduled time is 05:16:00
+We are 226 too late
+Dwell time: 180
+Tram 7 we have a delay of: 406
+Time it took Tram 8 to reach endpoint P+R De Uithof: 1045
+Tram 8 should have arrived at 05:24:02 but it arrived at 05:24:27
+The scheduled time is 05:20:00
+We are 267 too late
+Dwell time: 180
+Tram 8 we have a delay of: 447
+Time it took Tram 4 to reach endpoint P+R De Uithof: 980
+Tram 4 should have arrived at 05:26:07 but it arrived at 05:25:27
+The scheduled time is 05:24:00
+We are 87 too late
+Dwell time: 180
+Tram 4 we have a delay of: 267
+Time it took Tram 2 to reach endpoint Centraal Station: 955
+Tram 2 should have arrived at 05:27:35 but it arrived at 05:26:30
+The scheduled time is 05:20:00
+We are 390 too late
+Dwell time: 180
+Tram 2 we have a delay of: 570
+Time it took Tram 5 to reach endpoint Centraal Station: 943
+Tram 5 should have arrived at 05:29:31 but it arrived at 05:28:14
+The scheduled time is 05:24:00
+We are 254 too late
+Dwell time: 180
+Tram 5 we have a delay of: 434
+Time it took Tram 1 to reach endpoint P+R De Uithof: 1133
+Tram 1 should have arrived at 05:28:09 but it arrived at 05:30:02
+The scheduled time is 05:28:00
+We are 122 too late
+Dwell time: 180
+Tram 1 we have a delay of: 302
+Time it took Tram 9 to reach endpoint P+R De Uithof: 1077
+Tram 9 should have arrived at 05:30:16 but it arrived at 05:31:13
+The scheduled time is 05:32:00
+We are -47 too late
+Dwell time: 180
+Tram 9 we have a delay of: 133
+Time it took Tram 6 to reach endpoint Centraal Station: 966
+Tram 6 should have arrived at 05:33:46 but it arrived at 05:32:52
+The scheduled time is 05:28:00
+We are 292 too late
+Dwell time: 180
+Tram 6 we have a delay of: 472
+Time it took Tram 10 to reach endpoint P+R De Uithof: 1043
+Tram 10 should have arrived at 05:34:50 but it arrived at 05:35:13
+The scheduled time is 05:36:00
+We are -47 too late
+Dwell time: 180
+Tram 10 we have a delay of: 133
+Time it took Tram 3 to reach endpoint Centraal Station: 1003
+Tram 3 should have arrived at 05:35:46 but it arrived at 05:35:29
+The scheduled time is 05:32:00
+We are 209 too late
+Dwell time: 180
+Tram 3 we have a delay of: 389
+Time it took Tram 7 to reach endpoint Centraal Station: 939
+Tram 7 should have arrived at 05:39:46 but it arrived at 05:38:25
+The scheduled time is 05:36:00
+We are 145 too late
+Dwell time: 180
+Tram 7 we have a delay of: 325
+Time it took Tram 8 to reach endpoint Centraal Station: 914
+Tram 8 should have arrived at 05:44:27 but it arrived at 05:42:41
+The scheduled time is 05:40:00
+We are 161 too late
+Dwell time: 180
+Tram 8 we have a delay of: 341
+Time it took Tram 4 to reach endpoint Centraal Station: 914
+Tram 4 should have arrived at 05:45:27 but it arrived at 05:43:41
+The scheduled time is 05:44:00
+We are -19 too late
+Dwell time: 180
+Tram 4 we have a delay of: 161
+Time it took Tram 2 to reach endpoint P+R De Uithof: 1009
+Tram 2 should have arrived at 05:46:34 but it arrived at 05:46:23
+The scheduled time is 05:40:00
+We are 383 too late
+Dwell time: 180
+Tram 2 we have a delay of: 563
+Time it took Tram 5 to reach endpoint P+R De Uithof: 1051
+Tram 5 should have arrived at 05:48:52 but it arrived at 05:49:23
+The scheduled time is 05:44:00
+We are 323 too late
+Dwell time: 180
+Tram 5 we have a delay of: 503
+Time it took Tram 1 to reach endpoint Centraal Station: 1097
+Tram 1 should have arrived at 05:50:02 but it arrived at 05:51:19
+The scheduled time is 05:48:00
+We are 199 too late
+Dwell time: 180
+Tram 1 we have a delay of: 379
+Time it took Tram 9 to reach endpoint Centraal Station: 1096
+Tram 9 should have arrived at 05:51:13 but it arrived at 05:52:29
+The scheduled time is 05:52:00
+We are 29 too late
+Dwell time: 180
+Tram 9 we have a delay of: 209
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1083
+Tram 6 should have arrived at 05:53:31 but it arrived at 05:54:34
+The scheduled time is 05:48:00
+We are 394 too late
+Dwell time: 180
+Tram 6 we have a delay of: 574
+Time it took Tram 10 to reach endpoint Centraal Station: 1038
+Tram 10 should have arrived at 05:55:13 but it arrived at 05:55:31
+The scheduled time is 05:56:00
+We are -29 too late
+Dwell time: 180
+Tram 10 we have a delay of: 151
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1010
+Tram 3 should have arrived at 05:56:36 but it arrived at 05:56:26
+The scheduled time is 05:52:00
+We are 266 too late
+Dwell time: 180
+Tram 3 we have a delay of: 446
+Time it took Tram 7 to reach endpoint P+R De Uithof: 1021
+Tram 7 should have arrived at 05:58:33 but it arrived at 05:58:34
+The scheduled time is 05:56:00
+We are 154 too late
+Dwell time: 180
+Tram 7 we have a delay of: 334
+Time it took Tram 8 to reach endpoint P+R De Uithof: 1011
+Tram 8 should have arrived at 06:02:43 but it arrived at 06:02:34
+The scheduled time is 06:00:00
+We are 154 too late
+Dwell time: 180
+Tram 8 we have a delay of: 334
+Time it took Tram 4 to reach endpoint P+R De Uithof: 1002
+Tram 4 should have arrived at 06:03:52 but it arrived at 06:03:34
+The scheduled time is 06:04:00
+We are -26 too late
+Dwell time: 180
+Tram 4 we have a delay of: 154
+Time it took Tram 2 to reach endpoint Centraal Station: 1239
+Tram 2 should have arrived at 06:07:23 but it arrived at 06:11:02
+The scheduled time is 06:00:00
+We are 662 too late
+Dwell time: 180
+Tram 2 we have a delay of: 842
+Time it took Tram 5 to reach endpoint Centraal Station: 1179
+Tram 5 should have arrived at 06:09:23 but it arrived at 06:12:02
+The scheduled time is 06:04:00
+We are 482 too late
+Dwell time: 180
+Tram 5 we have a delay of: 662
+Time it took Tram 1 to reach endpoint P+R De Uithof: 1108
+Tram 1 should have arrived at 06:11:31 but it arrived at 06:12:59
+The scheduled time is 06:08:00
+We are 299 too late
+Dwell time: 180
+Tram 1 we have a delay of: 479
+Time it took Tram 9 to reach endpoint P+R De Uithof: 1072
+Tram 9 should have arrived at 06:13:37 but it arrived at 06:14:29
+The scheduled time is 06:12:00
+We are 149 too late
+Dwell time: 180
+Tram 9 we have a delay of: 329
+Time it took Tram 6 to reach endpoint Centraal Station: 1065
+Tram 6 should have arrived at 06:14:34 but it arrived at 06:15:19
+The scheduled time is 06:08:00
+We are 439 too late
+Dwell time: 180
+Tram 6 we have a delay of: 619
+Time it took Tram 10 to reach endpoint P+R De Uithof: 1107
+Tram 10 should have arrived at 06:15:32 but it arrived at 06:16:59
+The scheduled time is 06:16:00
+We are 59 too late
+Dwell time: 180
+Tram 10 we have a delay of: 239
+Time it took Tram 3 to reach endpoint Centraal Station: 1073
+Tram 3 should have arrived at 06:16:34 but it arrived at 06:17:27
+The scheduled time is 06:12:00
+We are 327 too late
+Dwell time: 180
+Tram 3 we have a delay of: 507
+Time it took Tram 7 to reach endpoint Centraal Station: 1209
+Tram 7 should have arrived at 06:18:34 but it arrived at 06:21:43
+The scheduled time is 06:16:00
+We are 343 too late
+Dwell time: 180
+Tram 7 we have a delay of: 523
+Time it took Tram 8 to reach endpoint Centraal Station: 1107
+Tram 8 should have arrived at 06:22:34 but it arrived at 06:24:01
+The scheduled time is 06:20:00
+We are 241 too late
+Dwell time: 180
+Tram 8 we have a delay of: 421
+Time it took Tram 4 to reach endpoint Centraal Station: 1295
+Tram 4 should have arrived at 06:23:34 but it arrived at 06:28:09
+The scheduled time is 06:24:00
+We are 249 too late
+Dwell time: 180
+Tram 4 we have a delay of: 429
+Time it took Tram 1 to reach endpoint Centraal Station: 998
+Tram 1 should have arrived at 06:32:59 but it arrived at 06:32:37
+The scheduled time is 06:28:00
+We are 277 too late
+Dwell time: 180
+Tram 1 we have a delay of: 457
+Time it took Tram 2 to reach endpoint P+R De Uithof: 1125
+Tram 2 should have arrived at 06:31:19 but it arrived at 06:33:04
+The scheduled time is 06:20:00
+We are 784 too late
+Dwell time: 180
+Tram 2 we have a delay of: 964
+Time it took Tram 5 to reach endpoint P+R De Uithof: 1122
+Tram 5 should have arrived at 06:33:27 but it arrived at 06:35:09
+The scheduled time is 06:24:00
+We are 669 too late
+Dwell time: 180
+Tram 5 we have a delay of: 849
+Time it took Tram 9 to reach endpoint Centraal Station: 1164
+Tram 9 should have arrived at 06:34:59 but it arrived at 06:37:23
+The scheduled time is 06:32:00
+We are 323 too late
+Dwell time: 180
+Tram 9 we have a delay of: 503
+Time it took Tram 10 to reach endpoint Centraal Station: 1104
+Tram 10 should have arrived at 06:36:59 but it arrived at 06:38:23
+The scheduled time is 06:36:00
+We are 143 too late
+Dwell time: 180
+Tram 10 we have a delay of: 323
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1106
+Tram 3 should have arrived at 06:37:43 but it arrived at 06:39:09
+The scheduled time is 06:28:00
+We are 669 too late
+Dwell time: 180
+Tram 3 we have a delay of: 849
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1088
+Tram 6 should have arrived at 06:40:01 but it arrived at 06:41:09
+The scheduled time is 06:32:00
+We are 549 too late
+Dwell time: 180
+Tram 6 we have a delay of: 729
+Time it took Tram 8 to reach endpoint P+R De Uithof: 1097
+Tram 8 should have arrived at 06:44:09 but it arrived at 06:45:26
+The scheduled time is 06:36:00
+We are 566 too late
+Dwell time: 180
+Tram 8 we have a delay of: 746
+Time it took Tram 7 to reach endpoint P+R De Uithof: 1052
+Tram 7 should have arrived at 06:46:13 but it arrived at 06:46:45
+The scheduled time is 06:40:00
+We are 405 too late
+Dwell time: 180
+Tram 7 we have a delay of: 585
+Time it took Tram 4 to reach endpoint P+R De Uithof: 1069
+Tram 4 should have arrived at 06:48:37 but it arrived at 06:49:26
+The scheduled time is 06:44:00
+We are 326 too late
+Dwell time: 180
+Tram 4 we have a delay of: 506
+Time it took Tram 1 to reach endpoint P+R De Uithof: 1137
+Tram 1 should have arrived at 06:53:23 but it arrived at 06:55:20
+The scheduled time is 06:48:00
+We are 440 too late
+Dwell time: 180
+Tram 1 we have a delay of: 620
+Time it took Tram 5 to reach endpoint Centraal Station: 1095
+Tram 5 should have arrived at 06:55:09 but it arrived at 06:56:24
+The scheduled time is 06:40:00
+We are 984 too late
+Dwell time: 180
+Tram 5 we have a delay of: 1164
+Time it took Tram 2 to reach endpoint Centraal Station: 1130
+Tram 2 should have arrived at 06:57:09 but it arrived at 06:58:59
+The scheduled time is 06:44:00
+We are 899 too late
+Dwell time: 180
+Tram 2 we have a delay of: 1079
+Time it took Tram 9 to reach endpoint P+R De Uithof: 1114
+Tram 9 should have arrived at 06:57:58 but it arrived at 06:59:32
+The scheduled time is 06:52:00
+We are 452 too late
+Dwell time: 180
+Tram 9 we have a delay of: 632
+Time it took Tram 10 to reach endpoint P+R De Uithof: 1057
+Tram 10 should have arrived at 07:00:25 but it arrived at 07:01:02
+The scheduled time is 06:56:00
+We are 302 too late
+Dwell time: 180
+Tram 10 we have a delay of: 482
+Time it took Tram 3 to reach endpoint Centraal Station: 1250
+Tram 3 should have arrived at 06:59:09 but it arrived at 07:02:59
+The scheduled time is 06:48:00
+We are 899 too late
+Dwell time: 180
+Tram 3 we have a delay of: 1079
+Time it took Tram 6 to reach endpoint Centraal Station: 1250
+Tram 6 should have arrived at 07:01:09 but it arrived at 07:04:59
+The scheduled time is 06:52:00
+We are 779 too late
+Dwell time: 180
+Tram 6 we have a delay of: 959
+Time it took Tram 8 to reach endpoint Centraal Station: 1116
+Tram 8 should have arrived at 07:05:26 but it arrived at 07:07:02
+The scheduled time is 06:56:00
+We are 662 too late
+Dwell time: 180
+Tram 8 we have a delay of: 842
+Time it took Tram 7 to reach endpoint Centraal Station: 1245
+Tram 7 should have arrived at 07:07:26 but it arrived at 07:11:11
+The scheduled time is 07:00:00
+We are 671 too late
+Dwell time: 180
+Tram 7 we have a delay of: 851
+Time it took Tram 4 to reach endpoint Centraal Station: 1249
+Tram 4 should have arrived at 07:09:26 but it arrived at 07:13:15
+The scheduled time is 07:04:00
+We are 555 too late
+Dwell time: 180
+Tram 4 we have a delay of: 735
+Time it took Tram 1 to reach endpoint Centraal Station: 1153
+Tram 1 should have arrived at 07:15:20 but it arrived at 07:17:33
+The scheduled time is 07:08:00
+We are 573 too late
+Dwell time: 180
+Tram 1 we have a delay of: 753
+Time it took Tram 9 to reach endpoint Centraal Station: 1042
+Tram 9 should have arrived at 07:19:32 but it arrived at 07:19:54
+The scheduled time is 07:12:00
+We are 474 too late
+Dwell time: 180
+Tram 9 we have a delay of: 654
+Time it took Tram 2 to reach endpoint P+R De Uithof: 1130
+Tram 2 should have arrived at 07:18:59 but it arrived at 07:20:49
+The scheduled time is 07:00:00
+We are 1249 too late
+Dwell time: 180
+Tram 2 we have a delay of: 1429
+Time it took Tram 5 to reach endpoint P+R De Uithof: 1110
+Tram 5 should have arrived at 07:20:59 but it arrived at 07:22:29
+The scheduled time is 07:04:00
+We are 1109 too late
+Dwell time: 180
+Tram 5 we have a delay of: 1289
+Time it took Tram 10 to reach endpoint Centraal Station: 1195
+Tram 10 should have arrived at 07:21:02 but it arrived at 07:23:57
+The scheduled time is 07:16:00
+We are 477 too late
+Dwell time: 180
+Tram 10 we have a delay of: 657
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1127
+Tram 3 should have arrived at 07:23:02 but it arrived at 07:24:49
+The scheduled time is 07:08:00
+We are 1009 too late
+Dwell time: 180
+Tram 3 we have a delay of: 1189
+Time it took Tram 8 to reach endpoint P+R De Uithof: 998
+Tram 8 should have arrived at 07:27:11 but it arrived at 07:26:49
+The scheduled time is 07:12:00
+We are 889 too late
+Dwell time: 180
+Tram 8 we have a delay of: 1069
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1007
+Tram 6 should have arrived at 07:29:15 but it arrived at 07:29:02
+The scheduled time is 07:16:00
+We are 782 too late
+Dwell time: 180
+Tram 6 we have a delay of: 962
+Time it took Tram 7 to reach endpoint P+R De Uithof: 999
+Tram 7 should have arrived at 07:31:23 but it arrived at 07:31:02
+The scheduled time is 07:20:00
+We are 662 too late
+Dwell time: 180
+Tram 7 we have a delay of: 842
+Time it took Tram 4 to reach endpoint P+R De Uithof: 989
+Tram 4 should have arrived at 07:33:33 but it arrived at 07:33:02
+The scheduled time is 07:24:00
+We are 542 too late
+Dwell time: 180
+Tram 4 we have a delay of: 722
+Time it took Tram 9 to reach endpoint P+R De Uithof: 1024
+Tram 9 should have arrived at 07:39:57 but it arrived at 07:40:01
+The scheduled time is 07:28:00
+We are 721 too late
+Dwell time: 180
+Tram 9 we have a delay of: 901
+Time it took Tram 1 to reach endpoint P+R De Uithof: 968
+Tram 1 should have arrived at 07:41:59 but it arrived at 07:41:07
+The scheduled time is 07:32:00
+We are 547 too late
+Dwell time: 180
+Tram 1 we have a delay of: 727
+Time it took Tram 2 to reach endpoint Centraal Station: 1203
+Tram 2 should have arrived at 07:40:49 but it arrived at 07:43:52
+The scheduled time is 07:20:00
+We are 1432 too late
+Dwell time: 180
+Tram 2 we have a delay of: 1612
+Time it took Tram 10 to reach endpoint P+R De Uithof: 1124
+Tram 10 should have arrived at 07:44:04 but it arrived at 07:45:48
+The scheduled time is 07:36:00
+We are 588 too late
+Dwell time: 180
+Tram 10 we have a delay of: 768
+Time it took Tram 5 to reach endpoint Centraal Station: 1240
+Tram 5 should have arrived at 07:42:49 but it arrived at 07:46:29
+The scheduled time is 07:24:00
+We are 1349 too late
+Dwell time: 180
+Tram 5 we have a delay of: 1529
+Time it took Tram 3 to reach endpoint Centraal Station: 1381
+Tram 3 should have arrived at 07:44:49 but it arrived at 07:50:50
+The scheduled time is 07:28:00
+We are 1370 too late
+Dwell time: 180
+Tram 3 we have a delay of: 1550
+Time it took Tram 8 to reach endpoint Centraal Station: 1370
+Tram 8 should have arrived at 07:47:02 but it arrived at 07:52:52
+The scheduled time is 07:32:00
+We are 1252 too late
+Dwell time: 180
+Tram 8 we have a delay of: 1432
+Time it took Tram 6 to reach endpoint Centraal Station: 1493
+Tram 6 should have arrived at 07:49:02 but it arrived at 07:56:55
+The scheduled time is 07:36:00
+We are 1255 too late
+Dwell time: 180
+Tram 6 we have a delay of: 1435
+Time it took Tram 7 to reach endpoint Centraal Station: 1614
+Tram 7 should have arrived at 07:51:02 but it arrived at 08:00:56
+The scheduled time is 07:40:00
+We are 1256 too late
+Dwell time: 180
+Tram 7 we have a delay of: 1436
+Time it took Tram 4 to reach endpoint Centraal Station: 1736
+Tram 4 should have arrived at 07:53:02 but it arrived at 08:04:58
+The scheduled time is 07:44:00
+We are 1258 too late
+Dwell time: 180
+Tram 4 we have a delay of: 1438
+Time it took Tram 5 to reach endpoint P+R De Uithof: 971
+Tram 5 should have arrived at 08:06:50 but it arrived at 08:06:01
+The scheduled time is 07:40:00
+We are 1561 too late
+Dwell time: 180
+Tram 5 we have a delay of: 1741
+Time it took Tram 9 to reach endpoint Centraal Station: 1438
+Tram 9 should have arrived at 08:00:01 but it arrived at 08:06:59
+The scheduled time is 07:48:00
+We are 1139 too late
+Dwell time: 180
+Tram 9 we have a delay of: 1319
+Time it took Tram 2 to reach endpoint P+R De Uithof: 909
+Tram 2 should have arrived at 08:08:52 but it arrived at 08:07:01
+The scheduled time is 07:44:00
+We are 1381 too late
+Dwell time: 180
+Tram 2 we have a delay of: 1561
+Time it took Tram 1 to reach endpoint Centraal Station: 1614
+Tram 1 should have arrived at 08:01:07 but it arrived at 08:11:01
+The scheduled time is 07:52:00
+We are 1141 too late
+Dwell time: 180
+Tram 1 we have a delay of: 1321
+Time it took Tram 8 to reach endpoint P+R De Uithof: 999
+Tram 8 should have arrived at 08:12:55 but it arrived at 08:12:34
+The scheduled time is 07:48:00
+We are 1474 too late
+Dwell time: 180
+Tram 8 we have a delay of: 1654
+Time it took Tram 10 to reach endpoint Centraal Station: 1577
+Tram 10 should have arrived at 08:05:48 but it arrived at 08:15:05
+The scheduled time is 07:56:00
+We are 1145 too late
+Dwell time: 180
+Tram 10 we have a delay of: 1325
+Time it took Tram 6 to reach endpoint P+R De Uithof: 998
+Tram 6 should have arrived at 08:16:56 but it arrived at 08:16:34
+The scheduled time is 07:52:00
+We are 1474 too late
+Dwell time: 180
+Tram 6 we have a delay of: 1654
+Time it took Tram 7 to reach endpoint P+R De Uithof: 900
+Tram 7 should have arrived at 08:20:58 but it arrived at 08:18:58
+The scheduled time is 07:56:00
+We are 1378 too late
+Dwell time: 180
+Tram 7 we have a delay of: 1558
+Time it took Tram 3 to reach endpoint P+R De Uithof: 899
+Tram 3 should have arrived at 08:22:59 but it arrived at 08:20:58
+The scheduled time is 08:00:00
+We are 1258 too late
+Dwell time: 180
+Tram 3 we have a delay of: 1438
+Time it took Tram 9 to reach endpoint P+R De Uithof: 1098
+Tram 9 should have arrived at 08:27:01 but it arrived at 08:28:19
+The scheduled time is 08:04:00
+We are 1459 too late
+Dwell time: 180
+Tram 9 we have a delay of: 1639
+Time it took Tram 5 to reach endpoint Centraal Station: 1217
+Tram 5 should have arrived at 08:26:01 but it arrived at 08:29:18
+The scheduled time is 08:00:00
+We are 1758 too late
+Dwell time: 180
+Tram 5 we have a delay of: 1938
+Time it took Tram 2 to reach endpoint Centraal Station: 1217
+Tram 2 should have arrived at 08:27:01 but it arrived at 08:30:18
+The scheduled time is 08:04:00
+We are 1578 too late
+Dwell time: 180
+Tram 2 we have a delay of: 1758
+Time it took Tram 1 to reach endpoint P+R De Uithof: 1024
+Tram 1 should have arrived at 08:31:05 but it arrived at 08:31:09
+The scheduled time is 08:08:00
+We are 1389 too late
+Dwell time: 180
+Tram 1 we have a delay of: 1569
+Time it took Tram 4 to reach endpoint P+R De Uithof: 1026
+Tram 4 should have arrived at 08:33:08 but it arrived at 08:33:14
+The scheduled time is 08:12:00
+We are 1274 too late
+Dwell time: 180
+Tram 4 we have a delay of: 1454
+Time it took Tram 8 to reach endpoint Centraal Station: 1066
+Tram 8 should have arrived at 08:32:34 but it arrived at 08:33:20
+The scheduled time is 08:08:00
+We are 1520 too late
+Dwell time: 180
+Tram 8 we have a delay of: 1700
+Time it took Tram 10 to reach endpoint P+R De Uithof: 994
+Tram 10 should have arrived at 08:35:40 but it arrived at 08:35:14
+The scheduled time is 08:16:00
+We are 1154 too late
+Dwell time: 180
+Tram 10 we have a delay of: 1334
+Time it took Tram 6 to reach endpoint Centraal Station: 933
+Tram 6 should have arrived at 08:36:58 but it arrived at 08:35:31
+The scheduled time is 08:12:00
+We are 1411 too late
+Dwell time: 180
+Tram 6 we have a delay of: 1591
+Time it took Tram 7 to reach endpoint Centraal Station: 936
+Tram 7 should have arrived at 08:38:58 but it arrived at 08:37:34
+The scheduled time is 08:16:00
+We are 1294 too late
+Dwell time: 180
+Tram 7 we have a delay of: 1474
+Time it took Tram 3 to reach endpoint Centraal Station: 954
+Tram 3 should have arrived at 08:40:58 but it arrived at 08:39:52
+The scheduled time is 08:20:00
+We are 1192 too late
+Dwell time: 180
+Tram 3 we have a delay of: 1372
+Time it took Tram 5 to reach endpoint P+R De Uithof: 918
+Tram 5 should have arrived at 08:49:20 but it arrived at 08:47:38
+The scheduled time is 08:20:00
+We are 1658 too late
+Dwell time: 180
+Tram 5 we have a delay of: 1838
+Time it took Tram 2 to reach endpoint P+R De Uithof: 1037
+Tram 2 should have arrived at 08:51:21 but it arrived at 08:51:38
+The scheduled time is 08:24:00
+We are 1658 too late
+Dwell time: 180
+Tram 2 we have a delay of: 1838
+Time it took Tram 8 to reach endpoint P+R De Uithof: 1065
+Tram 8 should have arrived at 08:53:33 but it arrived at 08:54:18
+The scheduled time is 08:28:00
+We are 1578 too late
+Dwell time: 180
+Tram 8 we have a delay of: 1758
+Time it took Tram 9 to reach endpoint Centraal Station: 1386
+Tram 9 should have arrived at 08:49:09 but it arrived at 08:55:15
+The scheduled time is 08:24:00
+We are 1875 too late
+Dwell time: 180
+Tram 9 we have a delay of: 2055
+Time it took Tram 1 to reach endpoint Centraal Station: 1335
+Tram 1 should have arrived at 08:51:14 but it arrived at 08:56:29
+The scheduled time is 08:28:00
+We are 1709 too late
+Dwell time: 180
+Tram 1 we have a delay of: 1889
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1179
+Tram 6 should have arrived at 08:55:39 but it arrived at 08:58:18
+The scheduled time is 08:32:00
+We are 1578 too late
+Dwell time: 180
+Tram 6 we have a delay of: 1758
+Time it took Tram 4 to reach endpoint Centraal Station: 1384
+Tram 4 should have arrived at 08:53:14 but it arrived at 08:59:18
+The scheduled time is 08:32:00
+We are 1638 too late
+Dwell time: 180
+Tram 4 we have a delay of: 1818
+Time it took Tram 7 to reach endpoint P+R De Uithof: 1283
+Tram 7 should have arrived at 08:57:55 but it arrived at 09:02:18
+The scheduled time is 08:36:00
+We are 1578 too late
+Dwell time: 180
+Tram 7 we have a delay of: 1758
+Time it took Tram 10 to reach endpoint Centraal Station: 1509
+Tram 10 should have arrived at 08:55:14 but it arrived at 09:03:23
+The scheduled time is 08:36:00
+We are 1643 too late
+Dwell time: 180
+Tram 10 we have a delay of: 1823
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1257
+Tram 3 should have arrived at 09:00:21 but it arrived at 09:04:18
+The scheduled time is 08:40:00
+We are 1458 too late
+Dwell time: 180
+Tram 3 we have a delay of: 1638
+Time it took Tram 5 to reach endpoint Centraal Station: 1098
+Tram 5 should have arrived at 09:07:38 but it arrived at 09:08:56
+The scheduled time is 08:40:00
+We are 1736 too late
+Dwell time: 180
+Tram 5 we have a delay of: 1916
+Time it took Tram 8 to reach endpoint Centraal Station: 1081
+Tram 8 should have arrived at 09:14:18 but it arrived at 09:15:19
+The scheduled time is 08:44:00
+We are 1879 too late
+Dwell time: 180
+Tram 8 we have a delay of: 2059
+Time it took Tram 9 to reach endpoint P+R De Uithof: 1049
+Tram 9 should have arrived at 09:15:18 but it arrived at 09:15:47
+The scheduled time is 08:44:00
+We are 1907 too late
+Dwell time: 180
+Tram 9 we have a delay of: 2087
+Time it took Tram 4 to reach endpoint P+R De Uithof: 943
+Tram 4 should have arrived at 09:19:23 but it arrived at 09:18:06
+The scheduled time is 08:48:00
+We are 1806 too late
+Dwell time: 180
+Tram 4 we have a delay of: 1986
+Time it took Tram 6 to reach endpoint Centraal Station: 1117
+Tram 6 should have arrived at 09:18:18 but it arrived at 09:19:55
+The scheduled time is 08:48:00
+We are 1915 too late
+Dwell time: 180
+Tram 6 we have a delay of: 2095
+Time it took Tram 2 to reach endpoint Centraal Station: 1096
+Tram 2 should have arrived at 09:20:18 but it arrived at 09:21:34
+The scheduled time is 08:52:00
+We are 1774 too late
+Dwell time: 180
+Tram 2 we have a delay of: 1954
+Time it took Tram 1 to reach endpoint P+R De Uithof: 1061
+Tram 1 should have arrived at 09:21:25 but it arrived at 09:22:06
+The scheduled time is 08:52:00
+We are 1806 too late
+Dwell time: 180
+Tram 1 we have a delay of: 1986
+Time it took Tram 10 to reach endpoint P+R De Uithof: 993
+Tram 10 should have arrived at 09:23:33 but it arrived at 09:23:06
+The scheduled time is 08:56:00
+We are 1626 too late
+Dwell time: 180
+Tram 10 we have a delay of: 1806
+Time it took Tram 7 to reach endpoint Centraal Station: 1118
+Tram 7 should have arrived at 09:22:18 but it arrived at 09:23:56
+The scheduled time is 08:56:00
+We are 1676 too late
+Dwell time: 180
+Tram 7 we have a delay of: 1856
+Time it took Tram 3 to reach endpoint Centraal Station: 1243
+Tram 3 should have arrived at 09:24:18 but it arrived at 09:28:01
+The scheduled time is 09:00:00
+We are 1681 too late
+Dwell time: 180
+Tram 3 we have a delay of: 1861
+Time it took Tram 5 to reach endpoint P+R De Uithof: 1053
+Tram 5 should have arrived at 09:29:09 but it arrived at 09:29:42
+The scheduled time is 09:00:00
+We are 1782 too late
+Dwell time: 180
+Tram 5 we have a delay of: 1962
+Time it took Tram 8 to reach endpoint P+R De Uithof: 977
+Tram 8 should have arrived at 09:35:24 but it arrived at 09:34:41
+The scheduled time is 09:04:00
+We are 1841 too late
+Dwell time: 180
+Tram 8 we have a delay of: 2021
+Time it took Tram 6 to reach endpoint P+R De Uithof: 945
+Tram 6 should have arrived at 09:39:56 but it arrived at 09:38:41
+The scheduled time is 09:08:00
+We are 1841 too late
+Dwell time: 180
+Tram 6 we have a delay of: 2021
+Time it took Tram 9 to reach endpoint Centraal Station: 1186
+Tram 9 should have arrived at 09:36:06 but it arrived at 09:38:52
+The scheduled time is 09:04:00
+We are 2092 too late
+Dwell time: 180
+Tram 9 we have a delay of: 2272
+Time it took Tram 4 to reach endpoint Centraal Station: 1130
+Tram 4 should have arrived at 09:38:06 but it arrived at 09:39:56
+The scheduled time is 09:08:00
+We are 1916 too late
+Dwell time: 180
+Tram 4 we have a delay of: 2096
+Time it took Tram 1 to reach endpoint Centraal Station: 1068
+Tram 1 should have arrived at 09:42:06 but it arrived at 09:42:54
+The scheduled time is 09:12:00
+We are 1854 too late
+Dwell time: 180
+Tram 1 we have a delay of: 2034
+Time it took Tram 7 to reach endpoint P+R De Uithof: 1068
+Tram 7 should have arrived at 09:44:01 but it arrived at 09:44:49
+The scheduled time is 09:12:00
+We are 1969 too late
+Dwell time: 180
+Tram 7 we have a delay of: 2149
+Time it took Tram 2 to reach endpoint P+R De Uithof: 1003
+Tram 2 should have arrived at 09:46:06 but it arrived at 09:45:49
+The scheduled time is 09:16:00
+We are 1789 too late
+Dwell time: 180
+Tram 2 we have a delay of: 1969
+Time it took Tram 10 to reach endpoint Centraal Station: 1251
+Tram 10 should have arrived at 09:43:06 but it arrived at 09:46:57
+The scheduled time is 09:16:00
+We are 1857 too late
+Dwell time: 180
+Tram 10 we have a delay of: 2037
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1120
+Tram 3 should have arrived at 09:48:09 but it arrived at 09:49:49
+The scheduled time is 09:20:00
+We are 1789 too late
+Dwell time: 180
+Tram 3 we have a delay of: 1969
+Time it took Tram 5 to reach endpoint Centraal Station: 1150
+Tram 5 should have arrived at 09:49:42 but it arrived at 09:51:52
+The scheduled time is 09:20:00
+We are 1912 too late
+Dwell time: 180
+Tram 5 we have a delay of: 2092
+Time it took Tram 8 to reach endpoint Centraal Station: 1093
+Tram 8 should have arrived at 09:54:41 but it arrived at 09:55:54
+The scheduled time is 09:24:00
+We are 1914 too late
+Dwell time: 180
+Tram 8 we have a delay of: 2094
+Time it took Tram 6 to reach endpoint Centraal Station: 1019
+Tram 6 should have arrived at 09:58:41 but it arrived at 09:58:40
+The scheduled time is 09:28:00
+We are 1840 too late
+Dwell time: 180
+Tram 6 we have a delay of: 2020
+Time it took Tram 9 to reach endpoint P+R De Uithof: 1054
+Tram 9 should have arrived at 09:58:54 but it arrived at 09:59:28
+The scheduled time is 09:24:00
+We are 2128 too late
+Dwell time: 180
+Tram 9 we have a delay of: 2308
+Time it took Tram 1 to reach endpoint P+R De Uithof: 957
+Tram 1 should have arrived at 10:02:57 but it arrived at 10:01:54
+The scheduled time is 09:28:00
+We are 2034 too late
+Dwell time: 180
+Tram 1 we have a delay of: 2214
+Time it took Tram 4 to reach endpoint P+R De Uithof: 956
+Tram 4 should have arrived at 10:04:58 but it arrived at 10:03:54
+The scheduled time is 09:32:00
+We are 1914 too late
+Dwell time: 180
+Tram 4 we have a delay of: 2094
+Time it took Tram 10 to reach endpoint P+R De Uithof: 952
+Tram 10 should have arrived at 10:07:02 but it arrived at 10:05:54
+The scheduled time is 09:36:00
+We are 1794 too late
+Dwell time: 180
+Tram 10 we have a delay of: 1974
+Time it took Tram 7 to reach endpoint Centraal Station: 1111
+Tram 7 should have arrived at 10:04:49 but it arrived at 10:06:20
+The scheduled time is 09:32:00
+We are 2060 too late
+Dwell time: 180
+Tram 7 we have a delay of: 2240
+Time it took Tram 2 to reach endpoint Centraal Station: 1114
+Tram 2 should have arrived at 10:05:49 but it arrived at 10:07:23
+The scheduled time is 09:36:00
+We are 1883 too late
+Dwell time: 180
+Tram 2 we have a delay of: 2063
+Time it took Tram 3 to reach endpoint Centraal Station: 1052
+Tram 3 should have arrived at 10:09:49 but it arrived at 10:10:21
+The scheduled time is 09:40:00
+We are 1821 too late
+Dwell time: 180
+Tram 3 we have a delay of: 2001
+Time it took Tram 5 to reach endpoint P+R De Uithof: 995
+Tram 5 should have arrived at 10:11:54 but it arrived at 10:11:29
+The scheduled time is 09:40:00
+We are 1889 too late
+Dwell time: 180
+Tram 5 we have a delay of: 2069
+Time it took Tram 8 to reach endpoint P+R De Uithof: 1033
+Tram 8 should have arrived at 10:16:43 but it arrived at 10:16:56
+The scheduled time is 09:44:00
+We are 1976 too late
+Dwell time: 180
+Tram 8 we have a delay of: 2156
+Time it took Tram 6 to reach endpoint P+R De Uithof: 996
+Tram 6 should have arrived at 10:18:53 but it arrived at 10:18:29
+The scheduled time is 09:48:00
+We are 1829 too late
+Dwell time: 180
+Tram 6 we have a delay of: 2009
+Time it took Tram 9 to reach endpoint Centraal Station: 1027
+Tram 9 should have arrived at 10:19:54 but it arrived at 10:20:01
+The scheduled time is 09:44:00
+We are 2161 too late
+Dwell time: 180
+Tram 9 we have a delay of: 2341
+Time it took Tram 1 to reach endpoint Centraal Station: 1047
+Tram 1 should have arrived at 10:21:54 but it arrived at 10:22:21
+The scheduled time is 09:48:00
+We are 2061 too late
+Dwell time: 180
+Tram 1 we have a delay of: 2241
+Time it took Tram 7 to reach endpoint P+R De Uithof: 1009
+Tram 7 should have arrived at 10:26:21 but it arrived at 10:26:10
+The scheduled time is 09:52:00
+We are 2050 too late
+Dwell time: 180
+Tram 7 we have a delay of: 2230
+Time it took Tram 4 to reach endpoint Centraal Station: 1178
+Tram 4 should have arrived at 10:23:54 but it arrived at 10:26:32
+The scheduled time is 09:52:00
+We are 2072 too late
+Dwell time: 180
+Tram 4 we have a delay of: 2252
+Time it took Tram 2 to reach endpoint P+R De Uithof: 1128
+Tram 2 should have arrived at 10:28:22 but it arrived at 10:30:10
+The scheduled time is 09:56:00
+We are 2050 too late
+Dwell time: 180
+Tram 2 we have a delay of: 2230
+Time it took Tram 10 to reach endpoint Centraal Station: 1300
+Tram 10 should have arrived at 10:25:54 but it arrived at 10:30:34
+The scheduled time is 09:56:00
+We are 2074 too late
+Dwell time: 180
+Tram 10 we have a delay of: 2254
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1068
+Tram 3 should have arrived at 10:30:22 but it arrived at 10:31:10
+The scheduled time is 10:00:00
+We are 1870 too late
+Dwell time: 180
+Tram 3 we have a delay of: 2050
+Time it took Tram 5 to reach endpoint Centraal Station: 1209
+Tram 5 should have arrived at 10:31:29 but it arrived at 10:34:38
+The scheduled time is 10:00:00
+We are 2078 too late
+Dwell time: 180
+Tram 5 we have a delay of: 2258
+Time it took Tram 8 to reach endpoint Centraal Station: 1152
+Tram 8 should have arrived at 10:36:56 but it arrived at 10:39:08
+The scheduled time is 10:04:00
+We are 2108 too late
+Dwell time: 180
+Tram 8 we have a delay of: 2288
+Time it took Tram 6 to reach endpoint Centraal Station: 1148
+Tram 6 should have arrived at 10:38:29 but it arrived at 10:40:37
+The scheduled time is 10:08:00
+We are 1957 too late
+Dwell time: 180
+Tram 6 we have a delay of: 2137
+Time it took Tram 1 to reach endpoint P+R De Uithof: 1032
+Tram 1 should have arrived at 10:42:32 but it arrived at 10:42:44
+The scheduled time is 10:04:00
+We are 2324 too late
+Dwell time: 180
+Tram 1 we have a delay of: 2504
+Time it took Tram 4 to reach endpoint P+R De Uithof: 1030
+Tram 4 should have arrived at 10:46:34 but it arrived at 10:46:44
+The scheduled time is 10:08:00
+We are 2324 too late
+Dwell time: 180
+Tram 4 we have a delay of: 2504
+Time it took Tram 7 to reach endpoint Centraal Station: 1121
+Tram 7 should have arrived at 10:46:10 but it arrived at 10:47:51
+The scheduled time is 10:12:00
+We are 2151 too late
+Dwell time: 180
+Tram 7 we have a delay of: 2331
+Time it took Tram 2 to reach endpoint Centraal Station: 941
+Tram 2 should have arrived at 10:50:10 but it arrived at 10:48:51
+The scheduled time is 10:16:00
+We are 1971 too late
+Dwell time: 180
+Tram 2 we have a delay of: 2151
+Time it took Tram 10 to reach endpoint P+R De Uithof: 1079
+Tram 10 should have arrived at 10:50:38 but it arrived at 10:51:37
+The scheduled time is 10:12:00
+We are 2377 too late
+Dwell time: 180
+Tram 10 we have a delay of: 2557
+Time it took Tram 3 to reach endpoint Centraal Station: 1064
+Tram 3 should have arrived at 10:51:10 but it arrived at 10:51:54
+The scheduled time is 10:20:00
+We are 1914 too late
+Dwell time: 180
+Tram 3 we have a delay of: 2094
+Time it took Tram 9 to reach endpoint P+R De Uithof: 1077
+Tram 9 should have arrived at 10:52:40 but it arrived at 10:53:37
+The scheduled time is 10:16:00
+We are 2257 too late
+Dwell time: 180
+Tram 9 we have a delay of: 2437
+Time it took Tram 5 to reach endpoint P+R De Uithof: 1197
+Tram 5 should have arrived at 10:54:40 but it arrived at 10:57:37
+The scheduled time is 10:20:00
+We are 2257 too late
+Dwell time: 180
+Tram 5 we have a delay of: 2437
+Time it took Tram 8 to reach endpoint P+R De Uithof: 1168
+Tram 8 should have arrived at 10:59:09 but it arrived at 11:01:37
+The scheduled time is 10:24:00
+We are 2257 too late
+Dwell time: 180
+Tram 8 we have a delay of: 2437
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1193
+Tram 6 should have arrived at 11:00:44 but it arrived at 11:03:37
+The scheduled time is 10:28:00
+We are 2137 too late
+Dwell time: 180
+Tram 6 we have a delay of: 2317
+Time it took Tram 1 to reach endpoint Centraal Station: 1263
+Tram 1 should have arrived at 11:02:44 but it arrived at 11:06:47
+The scheduled time is 10:24:00
+We are 2567 too late
+Dwell time: 180
+Tram 1 we have a delay of: 2747
+Time it took Tram 7 to reach endpoint P+R De Uithof: 1003
+Tram 7 should have arrived at 11:07:54 but it arrived at 11:07:37
+The scheduled time is 10:32:00
+We are 2137 too late
+Dwell time: 180
+Tram 7 we have a delay of: 2317
+Time it took Tram 4 to reach endpoint Centraal Station: 1083
+Tram 4 should have arrived at 11:06:44 but it arrived at 11:07:47
+The scheduled time is 10:28:00
+We are 2387 too late
+Dwell time: 180
+Tram 4 we have a delay of: 2567
+Time it took Tram 2 to reach endpoint P+R De Uithof: 998
+Tram 2 should have arrived at 11:09:55 but it arrived at 11:09:33
+The scheduled time is 10:36:00
+We are 2013 too late
+Dwell time: 180
+Tram 2 we have a delay of: 2193
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1055
+Tram 3 should have arrived at 11:11:55 but it arrived at 11:12:30
+The scheduled time is 10:40:00
+We are 1950 too late
+Dwell time: 180
+Tram 3 we have a delay of: 2130
+Time it took Tram 9 to reach endpoint Centraal Station: 1088
+Tram 9 should have arrived at 11:13:37 but it arrived at 11:14:45
+The scheduled time is 10:32:00
+We are 2565 too late
+Dwell time: 180
+Tram 9 we have a delay of: 2745
+Time it took Tram 5 to reach endpoint Centraal Station: 1012
+Tram 5 should have arrived at 11:17:37 but it arrived at 11:17:29
+The scheduled time is 10:36:00
+We are 2489 too late
+Dwell time: 180
+Tram 5 we have a delay of: 2669
+Time it took Tram 10 to reach endpoint Centraal Station: 1018
+Tram 10 should have arrived at 11:19:37 but it arrived at 11:19:35
+The scheduled time is 10:40:00
+We are 2375 too late
+Dwell time: 180
+Tram 10 we have a delay of: 2555
+Time it took Tram 8 to reach endpoint Centraal Station: 1020
+Tram 8 should have arrived at 11:21:37 but it arrived at 11:21:37
+The scheduled time is 10:44:00
+We are 2257 too late
+Dwell time: 180
+Tram 8 we have a delay of: 2437
+Time it took Tram 6 to reach endpoint Centraal Station: 1021
+Tram 6 should have arrived at 11:23:37 but it arrived at 11:23:38
+The scheduled time is 10:48:00
+We are 2138 too late
+Dwell time: 180
+Tram 6 we have a delay of: 2318
+Time it took Tram 1 to reach endpoint P+R De Uithof: 1007
+Tram 1 should have arrived at 11:26:51 but it arrived at 11:26:38
+The scheduled time is 10:44:00
+We are 2558 too late
+Dwell time: 180
+Tram 1 we have a delay of: 2738
+Time it took Tram 4 to reach endpoint P+R De Uithof: 1004
+Tram 4 should have arrived at 11:27:56 but it arrived at 11:27:40
+The scheduled time is 10:48:00
+We are 2380 too late
+Dwell time: 180
+Tram 4 we have a delay of: 2560
+Time it took Tram 7 to reach endpoint Centraal Station: 1072
+Tram 7 should have arrived at 11:27:37 but it arrived at 11:28:29
+The scheduled time is 10:52:00
+We are 2189 too late
+Dwell time: 180
+Tram 7 we have a delay of: 2369
+Time it took Tram 2 to reach endpoint Centraal Station: 1049
+Tram 2 should have arrived at 11:30:30 but it arrived at 11:30:59
+The scheduled time is 10:56:00
+We are 2099 too late
+Dwell time: 180
+Tram 2 we have a delay of: 2279
+Time it took Tram 9 to reach endpoint P+R De Uithof: 900
+Tram 9 should have arrived at 11:35:35 but it arrived at 11:33:35
+The scheduled time is 10:52:00
+We are 2495 too late
+Dwell time: 180
+Tram 9 we have a delay of: 2675
+Time it took Tram 3 to reach endpoint Centraal Station: 1091
+Tram 3 should have arrived at 11:32:30 but it arrived at 11:33:41
+The scheduled time is 11:00:00
+We are 2021 too late
+Dwell time: 180
+Tram 3 we have a delay of: 2201
+Time it took Tram 5 to reach endpoint P+R De Uithof: 1018
+Tram 5 should have arrived at 11:37:37 but it arrived at 11:37:35
+The scheduled time is 10:56:00
+We are 2495 too late
+Dwell time: 180
+Tram 5 we have a delay of: 2675
+Time it took Tram 10 to reach endpoint P+R De Uithof: 957
+Tram 10 should have arrived at 11:39:38 but it arrived at 11:38:35
+The scheduled time is 11:00:00
+We are 2315 too late
+Dwell time: 180
+Tram 10 we have a delay of: 2495
+Time it took Tram 8 to reach endpoint P+R De Uithof: 1016
+Tram 8 should have arrived at 11:41:39 but it arrived at 11:41:35
+The scheduled time is 11:04:00
+We are 2255 too late
+Dwell time: 180
+Tram 8 we have a delay of: 2435
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1024
+Tram 6 should have arrived at 11:43:41 but it arrived at 11:43:45
+The scheduled time is 11:08:00
+We are 2145 too late
+Dwell time: 180
+Tram 6 we have a delay of: 2325
+Time it took Tram 1 to reach endpoint Centraal Station: 1199
+Tram 1 should have arrived at 11:46:38 but it arrived at 11:49:37
+The scheduled time is 11:04:00
+We are 2737 too late
+Dwell time: 180
+Tram 1 we have a delay of: 2917
+Time it took Tram 7 to reach endpoint P+R De Uithof: 1069
+Tram 7 should have arrived at 11:49:01 but it arrived at 11:49:50
+The scheduled time is 11:12:00
+We are 2270 too late
+Dwell time: 180
+Tram 7 we have a delay of: 2450
+Time it took Tram 4 to reach endpoint Centraal Station: 1197
+Tram 4 should have arrived at 11:47:40 but it arrived at 11:50:37
+The scheduled time is 11:08:00
+We are 2557 too late
+Dwell time: 180
+Tram 4 we have a delay of: 2737
+Time it took Tram 2 to reach endpoint P+R De Uithof: 1069
+Tram 2 should have arrived at 11:51:42 but it arrived at 11:52:31
+The scheduled time is 11:16:00
+We are 2191 too late
+Dwell time: 180
+Tram 2 we have a delay of: 2371
+Time it took Tram 9 to reach endpoint Centraal Station: 1024
+Tram 9 should have arrived at 11:53:35 but it arrived at 11:53:39
+The scheduled time is 11:12:00
+We are 2499 too late
+Dwell time: 180
+Tram 9 we have a delay of: 2679
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1184
+Tram 3 should have arrived at 11:53:47 but it arrived at 11:56:31
+The scheduled time is 11:20:00
+We are 2191 too late
+Dwell time: 180
+Tram 3 we have a delay of: 2371
+Time it took Tram 5 to reach endpoint Centraal Station: 1030
+Tram 5 should have arrived at 11:57:35 but it arrived at 11:57:45
+The scheduled time is 11:16:00
+We are 2505 too late
+Dwell time: 180
+Tram 5 we have a delay of: 2685
+Time it took Tram 10 to reach endpoint Centraal Station: 1152
+Tram 10 should have arrived at 11:59:35 but it arrived at 12:01:47
+The scheduled time is 11:20:00
+We are 2507 too late
+Dwell time: 180
+Tram 10 we have a delay of: 2687
+Time it took Tram 8 to reach endpoint Centraal Station: 1082
+Tram 8 should have arrived at 12:01:45 but it arrived at 12:02:47
+The scheduled time is 11:24:00
+We are 2327 too late
+Dwell time: 180
+Tram 8 we have a delay of: 2507
+Time it took Tram 6 to reach endpoint Centraal Station: 1147
+Tram 6 should have arrived at 12:03:45 but it arrived at 12:05:52
+The scheduled time is 11:28:00
+We are 2272 too late
+Dwell time: 180
+Tram 6 we have a delay of: 2452
+Time it took Tram 1 to reach endpoint P+R De Uithof: 971
+Tram 1 should have arrived at 12:09:39 but it arrived at 12:08:50
+The scheduled time is 11:24:00
+We are 2690 too late
+Dwell time: 180
+Tram 1 we have a delay of: 2870
+Time it took Tram 4 to reach endpoint P+R De Uithof: 1090
+Tram 4 should have arrived at 12:11:40 but it arrived at 12:12:50
+The scheduled time is 11:28:00
+We are 2690 too late
+Dwell time: 180
+Tram 4 we have a delay of: 2870
+Time it took Tram 9 to reach endpoint P+R De Uithof: 1025
+Tram 9 should have arrived at 12:13:45 but it arrived at 12:13:50
+The scheduled time is 11:32:00
+We are 2510 too late
+Dwell time: 180
+Tram 9 we have a delay of: 2690
+Time it took Tram 2 to reach endpoint Centraal Station: 1151
+Tram 2 should have arrived at 12:12:31 but it arrived at 12:14:42
+The scheduled time is 11:32:00
+We are 2562 too late
+Dwell time: 180
+Tram 2 we have a delay of: 2742
+Time it took Tram 7 to reach endpoint Centraal Station: 1095
+Tram 7 should have arrived at 12:14:31 but it arrived at 12:15:46
+The scheduled time is 11:36:00
+We are 2386 too late
+Dwell time: 180
+Tram 7 we have a delay of: 2566
+Time it took Tram 5 to reach endpoint P+R De Uithof: 1027
+Tram 5 should have arrived at 12:17:47 but it arrived at 12:17:54
+The scheduled time is 11:36:00
+We are 2514 too late
+Dwell time: 180
+Tram 5 we have a delay of: 2694
+Time it took Tram 3 to reach endpoint Centraal Station: 1154
+Tram 3 should have arrived at 12:16:31 but it arrived at 12:18:45
+The scheduled time is 11:40:00
+We are 2325 too late
+Dwell time: 180
+Tram 3 we have a delay of: 2505
+Time it took Tram 10 to reach endpoint P+R De Uithof: 961
+Tram 10 should have arrived at 12:21:52 but it arrived at 12:20:53
+The scheduled time is 11:40:00
+We are 2453 too late
+Dwell time: 180
+Tram 10 we have a delay of: 2633
+Time it took Tram 8 to reach endpoint P+R De Uithof: 960
+Tram 8 should have arrived at 12:23:53 but it arrived at 12:22:53
+The scheduled time is 11:44:00
+We are 2333 too late
+Dwell time: 180
+Tram 8 we have a delay of: 2513
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1075
+Tram 6 should have arrived at 12:25:58 but it arrived at 12:26:53
+The scheduled time is 11:48:00
+We are 2333 too late
+Dwell time: 180
+Tram 6 we have a delay of: 2513
+Time it took Tram 1 to reach endpoint Centraal Station: 1003
+Tram 1 should have arrived at 12:28:50 but it arrived at 12:28:33
+The scheduled time is 11:44:00
+We are 2673 too late
+Dwell time: 180
+Tram 1 we have a delay of: 2853
+Time it took Tram 2 to reach endpoint P+R De Uithof: 1038
+Tram 2 should have arrived at 12:34:45 but it arrived at 12:35:03
+The scheduled time is 11:52:00
+We are 2583 too late
+Dwell time: 180
+Tram 2 we have a delay of: 2763
+Time it took Tram 4 to reach endpoint Centraal Station: 1167
+Tram 4 should have arrived at 12:32:50 but it arrived at 12:35:17
+The scheduled time is 11:48:00
+We are 2837 too late
+Dwell time: 180
+Tram 4 we have a delay of: 3017
+Time it took Tram 7 to reach endpoint P+R De Uithof: 991
+Tram 7 should have arrived at 12:36:46 but it arrived at 12:36:17
+The scheduled time is 11:56:00
+We are 2417 too late
+Dwell time: 180
+Tram 7 we have a delay of: 2597
+Time it took Tram 9 to reach endpoint Centraal Station: 1167
+Tram 9 should have arrived at 12:33:50 but it arrived at 12:36:17
+The scheduled time is 11:52:00
+We are 2657 too late
+Dwell time: 180
+Tram 9 we have a delay of: 2837
+Time it took Tram 5 to reach endpoint Centraal Station: 1050
+Tram 5 should have arrived at 12:38:53 but it arrived at 12:39:23
+The scheduled time is 11:56:00
+We are 2603 too late
+Dwell time: 180
+Tram 5 we have a delay of: 2783
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1105
+Tram 3 should have arrived at 12:38:52 but it arrived at 12:40:17
+The scheduled time is 12:00:00
+We are 2417 too late
+Dwell time: 180
+Tram 3 we have a delay of: 2597
+Time it took Tram 10 to reach endpoint Centraal Station: 1171
+Tram 10 should have arrived at 12:40:53 but it arrived at 12:43:24
+The scheduled time is 12:00:00
+We are 2604 too late
+Dwell time: 180
+Tram 10 we have a delay of: 2784
+Time it took Tram 8 to reach endpoint Centraal Station: 1173
+Tram 8 should have arrived at 12:42:53 but it arrived at 12:45:26
+The scheduled time is 12:04:00
+We are 2486 too late
+Dwell time: 180
+Tram 8 we have a delay of: 2666
+Time it took Tram 1 to reach endpoint P+R De Uithof: 948
+Tram 1 should have arrived at 12:48:36 but it arrived at 12:47:24
+The scheduled time is 12:04:00
+We are 2604 too late
+Dwell time: 180
+Tram 1 we have a delay of: 2784
+Time it took Tram 6 to reach endpoint Centraal Station: 1175
+Tram 6 should have arrived at 12:46:53 but it arrived at 12:49:28
+The scheduled time is 12:08:00
+We are 2488 too late
+Dwell time: 180
+Tram 6 we have a delay of: 2668
+Time it took Tram 2 to reach endpoint Centraal Station: 969
+Tram 2 should have arrived at 12:55:03 but it arrived at 12:54:12
+The scheduled time is 12:12:00
+We are 2532 too late
+Dwell time: 180
+Tram 2 we have a delay of: 2712
+Time it took Tram 4 to reach endpoint P+R De Uithof: 1042
+Tram 4 should have arrived at 12:55:23 but it arrived at 12:55:45
+The scheduled time is 12:08:00
+We are 2865 too late
+Dwell time: 180
+Tram 4 we have a delay of: 3045
+Time it took Tram 7 to reach endpoint Centraal Station: 1046
+Tram 7 should have arrived at 12:56:17 but it arrived at 12:56:43
+The scheduled time is 12:16:00
+We are 2443 too late
+Dwell time: 180
+Tram 7 we have a delay of: 2623
+Time it took Tram 5 to reach endpoint P+R De Uithof: 964
+Tram 5 should have arrived at 12:59:24 but it arrived at 12:58:28
+The scheduled time is 12:12:00
+We are 2788 too late
+Dwell time: 180
+Tram 5 we have a delay of: 2968
+Time it took Tram 3 to reach endpoint Centraal Station: 964
+Tram 3 should have arrived at 13:00:17 but it arrived at 12:59:21
+The scheduled time is 12:20:00
+We are 2361 too late
+Dwell time: 180
+Tram 3 we have a delay of: 2541
+Time it took Tram 9 to reach endpoint P+R De Uithof: 987
+Tram 9 should have arrived at 13:01:26 but it arrived at 13:00:53
+The scheduled time is 12:16:00
+We are 2693 too late
+Dwell time: 180
+Tram 9 we have a delay of: 2873
+Time it took Tram 8 to reach endpoint P+R De Uithof: 1007
+Tram 8 should have arrived at 13:05:28 but it arrived at 13:05:15
+The scheduled time is 12:20:00
+We are 2715 too late
+Dwell time: 180
+Tram 8 we have a delay of: 2895
+Time it took Tram 1 to reach endpoint Centraal Station: 1008
+Tram 1 should have arrived at 13:07:24 but it arrived at 13:07:12
+The scheduled time is 12:24:00
+We are 2592 too late
+Dwell time: 180
+Tram 1 we have a delay of: 2772
+Time it took Tram 10 to reach endpoint P+R De Uithof: 1055
+Tram 10 should have arrived at 13:07:29 but it arrived at 13:08:04
+The scheduled time is 12:24:00
+We are 2644 too late
+Tram 10 removed
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1054
+Tram 6 should have arrived at 13:09:30 but it arrived at 13:10:04
+The scheduled time is 12:24:00
+We are 2764 too late
+Dwell time: 180
+Tram 6 we have a delay of: 2944
+Time it took Tram 2 to reach endpoint P+R De Uithof: 981
+Tram 2 should have arrived at 13:14:43 but it arrived at 13:14:04
+The scheduled time is 12:28:00
+We are 2764 too late
+Tram 2 removed
+Time it took Tram 4 to reach endpoint Centraal Station: 989
+Tram 4 should have arrived at 13:16:28 but it arrived at 13:15:57
+The scheduled time is 12:28:00
+We are 2877 too late
+Dwell time: 180
+Tram 4 we have a delay of: 3057
+Time it took Tram 7 to reach endpoint P+R De Uithof: 967
+Tram 7 should have arrived at 13:17:23 but it arrived at 13:16:30
+The scheduled time is 12:28:00
+We are 2910 too late
+Dwell time: 180
+Tram 7 we have a delay of: 3090
+Time it took Tram 5 to reach endpoint Centraal Station: 944
+Tram 5 should have arrived at 13:18:53 but it arrived at 13:17:37
+The scheduled time is 12:32:00
+We are 2737 too late
+Dwell time: 180
+Tram 5 we have a delay of: 2917
+Time it took Tram 3 to reach endpoint P+R De Uithof: 984
+Tram 3 should have arrived at 13:19:23 but it arrived at 13:18:47
+The scheduled time is 12:32:00
+We are 2807 too late
+Dwell time: 180
+Tram 3 we have a delay of: 2987
+Time it took Tram 9 to reach endpoint Centraal Station: 1066
+Tram 9 should have arrived at 13:20:53 but it arrived at 13:21:39
+The scheduled time is 12:36:00
+We are 2739 too late
+Dwell time: 180
+Tram 9 we have a delay of: 2919
+Time it took Tram 8 to reach endpoint Centraal Station: 876
+Tram 8 should have arrived at 13:26:04 but it arrived at 13:23:40
+The scheduled time is 12:40:00
+We are 2620 too late
+Dwell time: 180
+Tram 8 we have a delay of: 2800
+Time it took Tram 1 to reach endpoint P+R De Uithof: 941
+Tram 1 should have arrived at 13:27:15 but it arrived at 13:25:56
+The scheduled time is 12:36:00
+We are 2996 too late
+Tram 1 removed
+Time it took Tram 6 to reach endpoint Centraal Station: 996
+Tram 6 should have arrived at 13:30:04 but it arrived at 13:29:40
+The scheduled time is 12:44:00
+We are 2740 too late
+Dwell time: 180
+Tram 6 we have a delay of: 2920
+Time it took Tram 4 to reach endpoint P+R De Uithof: 997
+Tram 4 should have arrived at 13:35:59 but it arrived at 13:35:36
+The scheduled time is 12:36:00
+We are 3576 too late
+Tram 4 removed
+Time it took Tram 7 to reach endpoint Centraal Station: 1013
+Tram 7 should have arrived at 13:36:47 but it arrived at 13:36:40
+The scheduled time is 12:48:00
+We are 2920 too late
+Dwell time: 180
+Tram 7 we have a delay of: 3100
+Time it took Tram 3 to reach endpoint Centraal Station: 953
+Tram 3 should have arrived at 13:38:47 but it arrived at 13:37:40
+The scheduled time is 12:52:00
+We are 2740 too late
+Dwell time: 180
+Tram 3 we have a delay of: 2920
+Time it took Tram 5 to reach endpoint P+R De Uithof: 1031
+Tram 5 should have arrived at 13:37:39 but it arrived at 13:37:50
+The scheduled time is 12:36:00
+We are 3710 too late
+Tram 5 removed
+Time it took Tram 9 to reach endpoint P+R De Uithof: 875
+Tram 9 should have arrived at 13:41:41 but it arrived at 13:39:16
+The scheduled time is 12:36:00
+We are 3796 too late
+Tram 9 removed
+Time it took Tram 8 to reach endpoint P+R De Uithof: 922
+Tram 8 should have arrived at 13:43:50 but it arrived at 13:42:12
+The scheduled time is 12:36:00
+We are 3972 too late
+Dwell time: 180
+Tram 8 we have a delay of: 4152
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1011
+Tram 6 should have arrived at 13:49:42 but it arrived at 13:49:33
+The scheduled time is 12:40:00
+We are 4173 too late
+Dwell time: 180
+Tram 6 we have a delay of: 4353
+Time it took Tram 7 to reach endpoint P+R De Uithof: 993
+Tram 7 should have arrived at 13:56:40 but it arrived at 13:56:13
+The scheduled time is 12:44:00
+We are 4333 too late
+Dwell time: 180
+Tram 7 we have a delay of: 4513
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1025
+Tram 3 should have arrived at 13:57:42 but it arrived at 13:57:47
+The scheduled time is 12:48:00
+We are 4187 too late
+Dwell time: 180
+Tram 3 we have a delay of: 4367
+Time it took Tram 8 to reach endpoint Centraal Station: 1071
+Tram 8 should have arrived at 14:02:12 but it arrived at 14:03:03
+The scheduled time is 12:56:00
+We are 4023 too late
+Dwell time: 180
+Tram 8 we have a delay of: 4203
+Time it took Tram 6 to reach endpoint Centraal Station: 911
+Tram 6 should have arrived at 14:09:33 but it arrived at 14:07:44
+The scheduled time is 13:00:00
+We are 4064 too late
+Dwell time: 180
+Tram 6 we have a delay of: 4244
+Time it took Tram 7 to reach endpoint Centraal Station: 953
+Tram 7 should have arrived at 14:16:13 but it arrived at 14:15:06
+The scheduled time is 13:04:00
+We are 4266 too late
+Dwell time: 180
+Tram 7 we have a delay of: 4446
+Time it took Tram 3 to reach endpoint Centraal Station: 919
+Tram 3 should have arrived at 14:17:47 but it arrived at 14:16:06
+The scheduled time is 13:08:00
+We are 4086 too late
+Dwell time: 180
+Tram 3 we have a delay of: 4266
+Time it took Tram 8 to reach endpoint P+R De Uithof: 972
+Tram 8 should have arrived at 14:23:04 but it arrived at 14:22:16
+The scheduled time is 12:52:00
+We are 5416 too late
+Dwell time: 180
+Tram 8 we have a delay of: 5596
+Time it took Tram 6 to reach endpoint P+R De Uithof: 932
+Tram 6 should have arrived at 14:27:44 but it arrived at 14:26:16
+The scheduled time is 12:56:00
+We are 5416 too late
+Dwell time: 180
+Tram 6 we have a delay of: 5596
+Time it took Tram 7 to reach endpoint P+R De Uithof: 980
+Tram 7 should have arrived at 14:35:06 but it arrived at 14:34:26
+The scheduled time is 13:00:00
+We are 5666 too late
+Dwell time: 180
+Tram 7 we have a delay of: 5846
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1011
+Tram 3 should have arrived at 14:36:08 but it arrived at 14:35:59
+The scheduled time is 13:12:00
+We are 5039 too late
+Dwell time: 180
+Tram 3 we have a delay of: 5219
+Time it took Tram 8 to reach endpoint Centraal Station: 1057
+Tram 8 should have arrived at 14:42:16 but it arrived at 14:42:53
+The scheduled time is 13:12:00
+We are 5453 too late
+Dwell time: 180
+Tram 8 we have a delay of: 5633
+Time it took Tram 6 to reach endpoint Centraal Station: 961
+Tram 6 should have arrived at 14:46:16 but it arrived at 14:45:17
+The scheduled time is 13:16:00
+We are 5357 too late
+Dwell time: 180
+Tram 6 we have a delay of: 5537
+Time it took Tram 7 to reach endpoint Centraal Station: 895
+Tram 7 should have arrived at 14:54:26 but it arrived at 14:52:21
+The scheduled time is 13:20:00
+We are 5541 too late
+Dwell time: 180
+Tram 7 we have a delay of: 5721
+Time it took Tram 3 to reach endpoint Centraal Station: 895
+Tram 3 should have arrived at 14:55:59 but it arrived at 14:53:54
+The scheduled time is 13:32:00
+We are 4914 too late
+Dwell time: 180
+Tram 3 we have a delay of: 5094
+Time it took Tram 8 to reach endpoint P+R De Uithof: 981
+Tram 8 should have arrived at 15:03:17 but it arrived at 15:02:38
+The scheduled time is 13:24:00
+We are 5918 too late
+Dwell time: 180
+Tram 8 we have a delay of: 6098
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1010
+Tram 6 should have arrived at 15:05:18 but it arrived at 15:05:08
+The scheduled time is 13:36:00
+We are 5348 too late
+Dwell time: 180
+Tram 6 we have a delay of: 5528
+Time it took Tram 7 to reach endpoint P+R De Uithof: 872
+Tram 7 should have arrived at 15:12:21 but it arrived at 15:09:53
+The scheduled time is 13:48:00
+We are 4913 too late
+Dwell time: 180
+Tram 7 we have a delay of: 5093
+Time it took Tram 3 to reach endpoint P+R De Uithof: 945
+Tram 3 should have arrived at 15:13:55 but it arrived at 15:12:40
+The scheduled time is 14:00:00
+We are 4360 too late
+Dwell time: 180
+Tram 3 we have a delay of: 4540
+Time it took Tram 8 to reach endpoint Centraal Station: 1001
+Tram 8 should have arrived at 15:23:08 but it arrived at 15:22:49
+The scheduled time is 13:44:00
+We are 5929 too late
+Dwell time: 180
+Tram 8 we have a delay of: 6109
+Time it took Tram 6 to reach endpoint Centraal Station: 990
+Tram 6 should have arrived at 15:25:08 but it arrived at 15:24:38
+The scheduled time is 13:56:00
+We are 5318 too late
+Dwell time: 180
+Tram 6 we have a delay of: 5498
+Time it took Tram 7 to reach endpoint Centraal Station: 937
+Tram 7 should have arrived at 15:30:40 but it arrived at 15:29:17
+The scheduled time is 14:08:00
+We are 4877 too late
+Dwell time: 180
+Tram 7 we have a delay of: 5057
+Time it took Tram 3 to reach endpoint Centraal Station: 967
+Tram 3 should have arrived at 15:32:40 but it arrived at 15:31:47
+The scheduled time is 14:20:00
+We are 4307 too late
+Dwell time: 180
+Tram 3 we have a delay of: 4487
+Time it took Tram 8 to reach endpoint P+R De Uithof: 1009
+Tram 8 should have arrived at 15:42:49 but it arrived at 15:42:38
+The scheduled time is 14:12:00
+We are 5438 too late
+Tram 8 removed
+Time it took Tram 6 to reach endpoint P+R De Uithof: 1101
+Tram 6 should have arrived at 15:44:38 but it arrived at 15:45:59
+The scheduled time is 14:12:00
+We are 5639 too late
+Tram 6 removed
+Time it took Tram 7 to reach endpoint P+R De Uithof: 878
+Tram 7 should have arrived at 15:49:47 but it arrived at 15:47:25
+The scheduled time is 14:12:00
+We are 5725 too late
+Dwell time: 180
+Tram 7 we have a delay of: 5905
+Time it took Tram 3 to reach endpoint P+R De Uithof: 937
+Tram 3 should have arrived at 15:51:47 but it arrived at 15:50:24
+The scheduled time is 14:24:00
+We are 5184 too late
+Dwell time: 180
+Tram 3 we have a delay of: 5364
+Time it took Tram 7 to reach endpoint Centraal Station: 943
+Tram 7 should have arrived at 16:08:24 but it arrived at 16:07:07
+The scheduled time is 14:32:00
+We are 5707 too late
+Dwell time: 180
+Tram 7 we have a delay of: 5887
+Time it took Tram 3 to reach endpoint Centraal Station: 939
+Tram 3 should have arrived at 16:10:24 but it arrived at 16:09:03
+The scheduled time is 14:44:00
+We are 5103 too late
+Dwell time: 180
+Tram 3 we have a delay of: 5283
+Time it took Tram 7 to reach endpoint P+R De Uithof: 1059
+Tram 7 should have arrived at 16:27:07 but it arrived at 16:27:46
+The scheduled time is 14:36:00
+We are 6706 too late
+Tram 7 removed
+Time it took Tram 3 to reach endpoint P+R De Uithof: 1003
+Tram 3 should have arrived at 16:29:03 but it arrived at 16:28:46
+The scheduled time is 14:36:00
+We are 6766 too late
+Tram 3 removed
+
+Ended simulation at time 59546
+The simulation ran from 06:00:00 until 22:32:26
+The simulation took 509 ms to simulate
+
+Passengers entered                         : 51101
+Passengers exited                          : 51101
+Passengers entered                         : 51101
+Passengers exited                          : 51101
+
+Passengers                                 : 9 entered and 45 exited at tram stop P+R De Uithof
+Passengers                                 : 977 entered and 0 exited at tram stop WKZ
+Passengers                                 : 2596 entered and 0 exited at tram stop UMC
+Passengers                                 : 8353 entered and 2331 exited at tram stop Heidelberglaan
+Passengers                                 : 5389 entered and 8340 exited at tram stop Padualaan
+Passengers                                 : 842 entered and 6109 exited at tram stop Kromme Rijn
+Passengers                                 : 2408 entered and 1332 exited at tram stop Galgenwaard
+Passengers                                 : 1460 entered and 2395 exited at tram stop Vaartsche Rijn
+Passengers                                 : 26910 entered and 1527 exited at tram stop Centraal Station
+Passengers                                 : 1229 entered and 26833 exited at tram stop Vaartsche Rijn 2
+Passengers                                 : 757 entered and 1229 exited at tram stop Galgenwaard 2
+Passengers                                 : 126 entered and 757 exited at tram stop Kromme Rijn 2
+Passengers                                 : 36 entered and 158 exited at tram stop Padualaan 2
+Passengers                                 : 9 entered and 36 exited at tram stop Heidelberglaan 2
+Passengers                                 : 0 entered and 9 exited at tram stop UMC 2
+Passengers                                 : 0 entered and 0 exited at tram stop WKZ 2
+
+Amount of trams too late at CS             : 159
+Amount of trams too late at P+R            : 154
+Amount of trams >1min too late at CS       : 149
+Amount of trams >1min too late at P+R      : 148
+Amount of trams too early at CS            : 33
+Amount of trams too early at P+R           : 32
+Amount of trams on time at CS              : 1
+Amount of trams on time at P+R             : 7
+
+
+Number of round trips                      : 193
+Number of departures from P+R              : 193
